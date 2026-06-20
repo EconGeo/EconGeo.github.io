@@ -9,9 +9,12 @@ publications — is available on my [CV](cv.qmd) and
 
 ## Refereed journal articles {#sec-pubs}
 
+### 2024
+
+- Mueller, G. R., & Mueller, A. G. (2024). Investable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles. *Journal of Real Estate Portfolio Management.* [https://doi.org/10.1080/10835547.2023.2247172](https://doi.org/10.1080/10835547.2023.2247172)
+
 ### 2023
 
-- Mueller, G. R., & Mueller, A. G. (2023). Investable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles. *Journal of Real Estate Portfolio Management.* [https://doi.org/10.1080/10835547.2023.2247172](https://doi.org/10.1080/10835547.2023.2247172)
 - Mueller, A. G., & Weiler, S. (2023). Spatial Models of Travel Behavior and Land Use Restriction. *Journal of Sustainable Real Estate* 15(1), 1–17.
 
 ### 2022
