@@ -33,6 +33,11 @@ Estate and Construction Management from the University of Denver, and I bring tw
 decades of industry experience in real estate research, development, and
 investment to my academic work.
 
+I am also a **regenerative practitioner**: I bring regenerative development
+principles to community-engaged projects in the Denver region, from the DU Grand
+Challenges sustainability cohort to the Community Integrated Research Center. You
+can read more about that work on the [Engagement](engagement.qmd) page.
+
 ## Research interests
 
 - Real estate finance, investment, and market cycles

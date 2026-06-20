@@ -17,6 +17,10 @@ website:
         href: publications.qmd
       - text: "Teaching"
         href: teaching.qmd
+      - text: "Engagement"
+        href: engagement.qmd
+      - text: "Resources"
+        href: resources.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Contact"

@@ -1,0 +1,68 @@
+---
+title: "Resources"
+---
+
+Collections of resources I share with students and collaborators — focused on the
+built environment, urban economics, and teaching. The lists grow as I find more.
+
+## Environmental resources {#sec-environmental}
+
+A collection of resources about the environment, with a particular focus on the
+built environment, for students and researchers interested in regenerative
+solutions to city building, transportation, and other built-environment problems.
+
+**General**
+
+- [Intergovernmental Panel on Climate Change (IPCC)](https://www.ipcc.ch)
+- [New Economics Foundation — *A Green New Deal* (2008)](https://web.archive.org/web/20081010184615/http://www.neweconomics.org:80/gen/uploads/2ajogu45c1id4w55tofmpy5520072008172656.pdf)
+
+**Research centers**
+
+- [Urban Land Institute — Centers & Initiatives](https://americas.uli.org/research/centers-initiatives/)
+
+**Resiliency frameworks**
+
+- [100 Resilient Cities](http://100resilientcities.org/resources/#section-1)
+- [UN Sustainable Development Goals — 2019 U.S. Cities Report](https://www.sustainabledevelopment.report/reports/2019-us-cities-sustainable-development-report/)
+- [Colorado Resiliency Office](https://www.coresiliency.com/)
+
+**Regenerative organizations**
+
+- [CityCraft Foundation](https://www.citycraftfoundation.org)
+
+## Urban economics resources {#sec-urban-econ}
+
+- [Regional Research Institute (West Virginia University)](https://researchrepository.wvu.edu/rri/) — a collection of regional economics web books, articles, and more.
+
+## Discussion-based teaching {#sec-discussion}
+
+I use discussion in my topics class, *Triple Bottom Line and the Built
+Environment*, to encourage students to engage deeply with material on social
+justice and environmental sustainability — including by facilitating their own
+class discussions. As Brookfield and Preskill describe it, the purposes of
+discussion are fourfold: (1) to help participants reach a more critically
+informed understanding of the topic, (2) to enhance their self-awareness and
+capacity for self-critique, (3) to foster an appreciation for the diversity of
+opinion that emerges when viewpoints are exchanged openly and honestly, and
+(4) to act as a catalyst for taking informed action in the world.
+
+- [Stephen Brookfield's website](https://www.stephenbrookfield.com) — works, resources, and tools for facilitating discussion and adult learning, including the Critical Incident Questionnaire.
+- [DU Office of Teaching and Learning](http://otl.du.edu) — resources for teaching and for using technology to support learning.
+- [*The Discussion Book: 50 Great Ways to Get People Talking*](https://ctl.columbia.edu/files/2017/02/2017.02.15.teacherslounge-50waystoholddiscussion-1y0tber.pdf) — a one-page summary of the book's 50 methods (Columbia CTL).
+
+> Brookfield, S. D., & Preskill, S. (2005). *Discussion as a Way of Teaching:
+> Tools and Techniques for Democratic Classrooms.* John Wiley & Sons.
+
+## Technology in the classroom {#sec-technology}
+
+I like to use technology in the classroom to give students the opportunity to
+share their work with the world. A few tools I point them to:
+
+**Website hosting**
+
+- [WordPress](https://wordpress.com), [Weebly](https://www.weebly.com), [Wix](https://www.wix.com), [Adobe Portfolio](https://portfolio.adobe.com), and DU Portfolio
+
+**Infographics & visualization**
+
+- [Kumu](https://kumu.io) — for creating complex network story maps
+- [Canva](https://www.canva.com) — for visual editing and layout

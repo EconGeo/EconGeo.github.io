@@ -62,16 +62,6 @@ websites around their work:
 
 ---
 
-## Community-engaged scholarship {#sec-community}
-
-The University of Denver is a private university committed to the public good. I
-co-led the **Environmental Sustainability in an Urban Context** cohort of the DU
-Grand Challenges, and I take part in the **Community Integrated Research Center
-(CIRC)** — part of the CityCraft initiative bringing Front Range scholars together
-to help the City and County of Denver redevelop West Denver in a regenerative way.
-
-A few resources I point students and collaborators toward:
-
-- [DU Center for Community Engagement to advance Scholarship and Learning (CCESL)](https://www.du.edu/ccesl/) — resources on community-engaged scholarship and learning.
-- [DU Scholar Shop](https://duscholarshop.com/) — community partners interested in working with DU faculty and students.
-- [Metro Denver Nature Alliance](https://www.metrodna.org/) — a coalition aligning nature-based efforts for more equitable access to nature.
+For my community-engaged and regenerative work, see [Engagement](engagement.qmd).
+For discussion-based teaching and classroom-technology resources, see
+[Resources](resources.qmd).
