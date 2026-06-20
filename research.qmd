@@ -1,0 +1,52 @@
+---
+title: "Research"
+---
+
+My research applies the tools of applied microeconomics to questions in
+environmental, urban, and real estate economics. Below are working papers and
+projects. Each entry hosts its own PDF and previews it inline — the convention
+is to **embed a scrollable preview *and* always offer a download link**, since
+inline viewers can be clunky on phones.
+
+---
+
+## Working papers {#sec-working-papers}
+
+### An Example Working Paper Title {#paper-example}
+
+*With Jane Coauthor.* 2026.
+
+> **Abstract.** Replace this with the paper's abstract. Keep it to one
+> paragraph. This is the text most visitors actually read, so lead with the
+> finding, not the setup.
+
+[Download PDF](papers/working-paper.pdf){.btn .btn-outline-primary .btn-sm}
+&nbsp;
+[BibTeX](publications.qmd){.btn .btn-outline-secondary .btn-sm}
+
+```{=html}
+<iframe src="papers/working-paper.pdf" width="100%" height="780px"
+        style="border: 1px solid var(--bs-border-color); border-radius: 6px; margin-top: 1rem;"
+        title="Working paper PDF preview">
+  <p>Your browser does not display PDFs inline.
+     <a href="papers/working-paper.pdf">Download the PDF</a> instead.</p>
+</iframe>
+```
+
+---
+
+### A Second Project {#paper-second}
+
+2026. *In progress.*
+
+> A short description of a project that does not yet have a circulated draft.
+> Drop a `<...>.pdf` into the `papers/` folder and repeat the block above when
+> a draft is ready.
+
+---
+
+::: {.callout-tip appearance="simple"}
+**How to add a paper:** put `your-paper.pdf` in the `papers/` folder, copy one
+of the blocks above, and change the title, abstract, and the two `papers/...pdf`
+paths. That's it.
+:::

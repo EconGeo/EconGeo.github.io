@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+---
+
+I teach courses in environmental, urban, and real estate economics, with an
+emphasis on community-engaged scholarship and applied data work. Replace the
+entries below with your own courses; each can link to a syllabus PDF (drop it in
+`papers/` or a new `syllabi/` folder) or to course slides.
+
+## Courses {#sec-courses}
+
+### Sustainability in an Urban Context
+
+*Course description goes here.* A one- or two-sentence summary of the course and
+its aims.
+
+[Syllabus (PDF)](#){.btn .btn-outline-primary .btn-sm}
+
+### Environmental, Social, and Urban Economics
+
+*Course description goes here.*
+
+[Syllabus (PDF)](#){.btn .btn-outline-primary .btn-sm}
+
+---
+
+## Student projects {#sec-student-projects}
+
+A place to showcase undergraduate and graduate student work, mirroring the
+"Student Projects" sections from your previous site.
+
+- **Fall 2020** — *project highlights*
+- **Fall 2019** — *project highlights*
+
+## Resources {#sec-resources}
+
+Carry over the resource collections from your Adobe site as needed:
+
+- Discussion and video resources
+- Industry webinars and events
+- Technology in the classroom

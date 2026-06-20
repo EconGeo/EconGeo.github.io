@@ -1,0 +1,115 @@
+/*-- scss:defaults --*/
+
+// ===== Brand palette =====
+// Change these values to re-skin the whole site.
+$primary:        #1d3557;   // links, navbar, buttons, heading accents (ink blue)
+$body-color:     #1f2430;   // main text (near-black)
+$body-bg:        #ffffff;   // page background
+$link-color:     $primary;
+$navbar-bg:      #1d3557;    // navbar background (solid ink blue)
+$navbar-fg:      #ffffff;    // navbar text
+
+// Neutral grays for rules, muted text, borders
+$gray-200:       #e6e8ec;
+$border-color:   #e6e8ec;
+$text-muted:     #5b6472;
+
+// ===== Typography =====
+// Inter for body/UI, Source Serif 4 for headings.
+// Web fonts are loaded via <link> in _quarto.yml.
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family:   "Source Serif 4", Georgia, "Times New Roman", serif;
+$headings-font-weight:   600;
+$h1-font-size: 2.2rem;
+$h2-font-size: 1.5rem;
+$h3-font-size: 1.2rem;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.68;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// Serif headings with a deliberate, slightly tight scale
+h1, h2, h3, h4, h5 {
+  font-family: $headings-font-family;
+}
+
+h1 {
+  letter-spacing: -0.01em;
+  font-weight: 700;
+}
+
+h2 {
+  letter-spacing: -0.005em;
+  // Softer rule than the default — thin ink-blue hairline
+  border-bottom: 1px solid rgba($primary, 0.16);
+  padding-bottom: 0.3rem;
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin-top: 1.6rem;
+}
+
+// Links: subtle ink underline, not the heavy default blue
+a {
+  text-decoration: none;
+}
+.quarto-title-block a,
+#quarto-content a:not(.btn):not(.nav-link):not(.about-link) {
+  border-bottom: 1px solid rgba($primary, 0.22);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+#quarto-content a:not(.btn):not(.nav-link):not(.about-link):hover {
+  border-bottom-color: $primary;
+}
+
+// Navbar: stronger contrast on links + active/hover state
+.navbar {
+  font-family: $font-family-sans-serif;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(#ffffff, 0.82);
+  font-weight: 500;
+}
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link.active {
+  color: #ffffff;
+}
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+// About-page name + role
+.about-entity .about-link {
+  font-weight: 500;
+}
+
+// Buttons inherit the brand color cleanly
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+}
+.btn-primary:hover {
+  background-color: darken($primary, 6%);
+  border-color: darken($primary, 6%);
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+}
+.btn-outline-primary:hover {
+  background-color: $primary;
+  border-color: $primary;
+}
+
+// Tighten the news/list spacing
+ul {
+  margin-bottom: 1rem;
+}

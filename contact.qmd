@@ -1,0 +1,17 @@
+---
+title: "Contact"
+toc: false
+---
+
+The fastest way to reach me is by email.
+
+- **Email:** [drewmueller@gmail.com](mailto:drewmueller@gmail.com)
+- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=REPLACE_ME)
+- **LinkedIn:** [andrew-mueller-2101](https://www.linkedin.com/in/andrew-mueller-2101)
+- **Twitter / X:** [@DrAndrewMueller](https://twitter.com/DrAndrewMueller)
+- **GitHub:** [EconGeo](https://github.com/EconGeo)
+
+::: {.callout-note appearance="simple"}
+Replace the email with your institutional address and add a mailing address or
+office location here if you'd like one on the site.
+:::

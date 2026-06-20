@@ -1,0 +1,48 @@
+---
+title: "Andrew Mueller"
+pagetitle: "Andrew Mueller"
+about:
+  template: trestles
+  image: assets/headshot.svg
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:drewmueller@gmail.com"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=REPLACE_ME"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/andrew-mueller-2101"
+    - icon: twitter-x
+      text: Twitter
+      href: "https://twitter.com/DrAndrewMueller"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/EconGeo"
+---
+
+I am an economist whose research sits at the intersection of **environmental, urban,
+and real estate economics**. My work examines how cities adapt to environmental
+pressures and policy — including land use and zoning, sustainability in urban
+settings, and the social and economic dimensions of community-engaged scholarship.
+
+::: {.callout-note appearance="simple"}
+This is a starter site. Replace the bio above, swap in your real headshot at
+`assets/headshot.svg` (or `.jpg`), update the Google Scholar link, and add your
+papers in [Publications](publications.qmd) and [Research](research.qmd).
+:::
+
+## Research interests
+
+- Environmental and urban economics
+- Real estate, land use, and zoning
+- Sustainability in an urban context
+- Community-engaged and community-integrated research
+
+## News
+
+- **2026** — Launched a new academic website built with Quarto.
+- *Add dated items here as you publish papers, present, or receive awards.*

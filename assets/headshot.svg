@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Headshot placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2c6e7f"/>
+      <stop offset="100%" stop-color="#1f4e5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="200" fill="url(#g)"/>
+  <text x="50%" y="50%" dy="0.35em" text-anchor="middle"
+        font-family="Source Sans Pro, Helvetica, Arial, sans-serif"
+        font-size="150" font-weight="600" fill="#ffffff">AM</text>
+  <text x="50%" y="78%" text-anchor="middle"
+        font-family="Source Sans Pro, Helvetica, Arial, sans-serif"
+        font-size="22" fill="#cfe3e8">replace with photo</text>
+</svg>

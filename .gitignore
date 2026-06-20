@@ -1,0 +1,15 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+*.html.in
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Brainstorming companion mockups
+.superpowers/
+
+**/*.quarto_ipynb

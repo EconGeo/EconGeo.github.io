@@ -1,0 +1,60 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Andrew Mueller"
+  description: "Andrew Mueller — research in environmental, urban, and real estate economics."
+  site-url: "https://drewmueller.com"
+  navbar:
+    pinned: true
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: envelope
+        href: "mailto:drewmueller@gmail.com"
+        aria-label: Email
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=REPLACE_ME"
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/andrew-mueller-2101"
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: "https://twitter.com/DrAndrewMueller"
+        aria-label: Twitter
+      - icon: github
+        href: "https://github.com/EconGeo"
+        aria-label: GitHub
+  page-footer:
+    left: "&copy; 2026 Andrew Mueller"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+    toc: true
+    toc-location: right
+    css: styles.scss
+    grid:
+      body-width: 900px
+    link-external-newwindow: true
+    link-external-icon: false
