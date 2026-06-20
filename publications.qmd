@@ -1,17 +1,55 @@
 ---
 title: "Publications"
-bibliography: publications.bib
-csl: https://www.zotero.org/styles/chicago-author-date
-nocite: |
-  @*
 ---
 
-A formatted list of every entry in `publications.bib` appears below. To add a
-paper, drop its BibTeX into that file — the list regenerates on the next render.
-You can paste BibTeX straight from Google Scholar, your Zotero library, or a
-journal page.
+Peer-reviewed journal articles, most recent first. A complete and current list —
+including conference presentations, funded research, and professional
+publications — is available on my [CV](cv.qmd) and
+[Google Scholar profile](https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en).
 
-## Selected publications {#sec-pubs}
+## Refereed journal articles {#sec-pubs}
 
-::: {#refs}
-:::
+### 2023
+
+- Mueller, G. R., & Mueller, A. G. (2023). Investable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles. *Journal of Real Estate Portfolio Management.* [https://doi.org/10.1080/10835547.2023.2247172](https://doi.org/10.1080/10835547.2023.2247172)
+- Mueller, A. G., & Weiler, S. (2023). Spatial Models of Travel Behavior and Land Use Restriction. *Journal of Sustainable Real Estate* 15(1), 1–17.
+
+### 2022
+
+- Mueller, A. G., Terschan, L., & PlaHovinsak, T. J. (2022). Filtering to Affordable: Does Multifamily Housing Become More Affordable as it Ages? *Journal of Real Estate Research* 44(2), 254–286.
+
+### 2020
+
+- Mueller, A. G., & Sanderford, A. (2020). A Summary of Recent Urban Form Literature and Discussion of the Implications for Real Estate Developers and Investors. *Journal of Real Estate Literature* 28(1), 50–68.
+- Bartelt, V., Urbaczewski, A., Mueller, A. G., & Sarker, S. (2020). Enabling Collaboration and Innovation in Denver's Smart City through a Living Lab: A Social Capital Perspective. *European Journal of Information Systems* 29(4), 369–387.
+
+### 2019
+
+- Mueller, A. G., & Trujillo, D. J. (2019). The Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking. *Journal of Sustainable Real Estate* 11(1), 108–129.
+
+### 2017
+
+- Laposa, S., & Mueller, A. G. (2017). The Great Recession and Real Estate Cycles: Challenges, Opportunities, and Lessons Learned. *Journal of Property Investment & Finance* 35(3), 321–340.
+- Guirguis, H., Mueller, G. R., Harris, J., & Mueller, A. G. (2017). Did Increased Large Bank Concentration of US Mortgage Loan Originations Explain Rising Originator Profits? *International Real Estate Review* 20(3), 325–348.
+
+### 2016
+
+- Evans, R. D., & Mueller, A. G. (2016). Forecasting Real Estate Cycle Risks in Portfolios of Office Properties Across Cities. *Journal of Real Estate Portfolio Management* 22(2), 199–215. *(2016 American Real Estate Society Manuscript Prize, Best Office Buildings/Office Parks paper.)*
+- Mueller, G. R., & Mueller, A. G. (2016). Real Estate Market Cycle Lengths and Magnitudes. *Real Estate Review* 45(3).
+- Evans, R. D., & Mueller, A. G. (2016). Industrial Real Estate Cycles: Markov Chain Applications. *Journal of Real Estate Portfolio Management* 22(1), 75–90.
+
+### 2010
+
+- Laposa, S., & Mueller, A. G. (2010). Wind Farm Announcements and Rural Home Prices: Maxwell Ranch and Rural Northern Colorado. *Journal of Sustainable Real Estate* 2(1), 383–402.
+
+### 2008
+
+- Mueller, G. R., Boney, V., & Mueller, A. G. (2008). International Real Estate Volatility: A Tactical Investment Strategy. *Journal of Real Estate Portfolio Management* 14(4), 415–423.
+
+### 2007
+
+- Mueller, G. R., & Mueller, A. G. (2007). Warehouse Demand and the Path of Goods Movement. *Journal of Real Estate Portfolio Management* 13(1), 45–55.
+
+### 2003
+
+- Mueller, A. G., & Mueller, G. R. (2003). Public and Private Real Estate in a Mixed-Asset Portfolio. *Journal of Real Estate Portfolio Management* 9(3), 193–203.

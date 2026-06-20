@@ -2,40 +2,76 @@
 title: "Teaching"
 ---
 
-I teach courses in environmental, urban, and real estate economics, with an
-emphasis on community-engaged scholarship and applied data work. Replace the
-entries below with your own courses; each can link to a syllabus PDF (drop it in
-`papers/` or a new `syllabi/` folder) or to course slides.
+I teach real estate and built-environment courses at the University of Denver,
+with an emphasis on **social justice and environmental sustainability in the
+built environment**. My classes lean on discussion-based learning to help
+students engage deeply with the material, and I use classroom technology to give
+students the chance to share their work with the world.
 
 ## Courses {#sec-courses}
 
-### Sustainability in an Urban Context
+### REAL 1700 / 4000 — Triple Bottom Line and the Built Environment
 
-*Course description goes here.* A one- or two-sentence summary of the course and
-its aims.
+A topics course (formerly *Business of the Built Environment*) examining the
+environmental, social, and economic dimensions of real estate and city building.
 
-[Syllabus (PDF)](#){.btn .btn-outline-primary .btn-sm}
+### REAL 3307 / 4407 — Real Estate Finance / Income Property Finance
 
-### Environmental, Social, and Urban Economics
+Finance and investment analysis for income-producing real estate.
 
-*Course description goes here.*
+### REAL 4800 — NAIOP Rocky Mountain Real Estate Challenge
 
-[Syllabus (PDF)](#){.btn .btn-outline-primary .btn-sm}
+A capstone, competition-based course in which student teams develop a real
+proposal for the regional NAIOP Real Estate Challenge.
+
+### REAL 4701 — Real Estate Market Analysis
+
+Methods for analyzing real estate markets, demand, and submarket dynamics.
 
 ---
 
 ## Student projects {#sec-student-projects}
 
-A place to showcase undergraduate and graduate student work, mirroring the
-"Student Projects" sections from your previous site.
+In **Triple Bottom Line and the Built Environment**, students build public
+websites around their work:
 
-- **Fall 2020** — *project highlights*
-- **Fall 2019** — *project highlights*
+- **Graduate (REAL 4000).** Students choose a critical issue related to the built
+  environment, outline the primary challenges, discuss how the issue affects the
+  City of Denver, and propose a plan of action for Denver to address it.
+- **Undergraduate (REAL 1700).** Students identify a parcel of land in the Denver
+  metro region and propose a redevelopment — a regenerative feasibility study
+  covering stakeholder engagement, a theoretical LEED rating, and the financing of
+  green enhancements.
 
-## Resources {#sec-resources}
+### Fall 2020 — graduate class
 
-Carry over the resource collections from your Adobe site as needed:
+- [Englewood Regeneration Project](https://englewoodregeneration.squarespace.com/)
+- [Biophilic Design](https://shreyabpatel.wixsite.com/biophilicdesign)
+- [Sustainable Solutions: Green Technology](https://coleboland8.wixsite.com/busbuiltenvro)
+- [Low-Income Community Regeneration](https://guanyungao.wixsite.com/website)
+- [Opportunity Zones USA](https://opportunityzonesusa.wordpress.com/)
+- [Urbanization in Denver: The Impact of Urbanization on Denver's Walkability](https://abbysimpson8.wixsite.com/denverwalkability)
 
-- Discussion and video resources
-- Industry webinars and events
-- Technology in the classroom
+### Fall 2019 — graduate class
+
+- [Rural Depopulation: Craig, CO Revitalization](https://ruraldepopulation.wixsite.com/craig)
+- [ReGen Den: Adaptive Redevelopment vs. Rebuild](http://www.harlanchumley.wordpress.com/)
+- [The Rise of Sun Valley: Neighborhood Revitalization](https://www.theriseofsunvalley.com)
+- [YAVI Future: Sustainability via Adaptive Architecture](https://yavifuture.weebly.com)
+- [Water Wait](https://frezzajohn.wixsite.com/waterwait)
+
+---
+
+## Community-engaged scholarship {#sec-community}
+
+The University of Denver is a private university committed to the public good. I
+co-led the **Environmental Sustainability in an Urban Context** cohort of the DU
+Grand Challenges, and I take part in the **Community Integrated Research Center
+(CIRC)** — part of the CityCraft initiative bringing Front Range scholars together
+to help the City and County of Denver redevelop West Denver in a regenerative way.
+
+A few resources I point students and collaborators toward:
+
+- [DU Center for Community Engagement to advance Scholarship and Learning (CCESL)](https://www.du.edu/ccesl/) — resources on community-engaged scholarship and learning.
+- [DU Scholar Shop](https://duscholarshop.com/) — community partners interested in working with DU faculty and students.
+- [Metro Denver Nature Alliance](https://www.metrodna.org/) — a coalition aligning nature-based efforts for more equitable access to nature.

@@ -1,48 +1,53 @@
 ---
-title: "Andrew Mueller"
-pagetitle: "Andrew Mueller"
+title: "Andrew G. Mueller"
+pagetitle: "Andrew G. Mueller"
 about:
   template: trestles
-  image: assets/headshot.svg
+  image: assets/headshot.jpg
   image-shape: round
   image-width: 14em
   links:
     - icon: envelope
-      text: Email
-      href: "mailto:drewmueller@gmail.com"
+      text: Contact
+      href: contact.qmd
     - icon: mortarboard-fill
       text: Google Scholar
-      href: "https://scholar.google.com/citations?user=REPLACE_ME"
+      href: "https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en"
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/andrew-mueller-2101"
-    - icon: twitter-x
-      text: Twitter
-      href: "https://twitter.com/DrAndrewMueller"
     - icon: github
       text: GitHub
       href: "https://github.com/EconGeo"
 ---
 
-I am an economist whose research sits at the intersection of **environmental, urban,
-and real estate economics**. My work examines how cities adapt to environmental
-pressures and policy — including land use and zoning, sustainability in urban
-settings, and the social and economic dimensions of community-engaged scholarship.
+I am an **Associate Professor** in the Franklin L. Burns School of Real Estate
+and Construction Management, part of the Daniels College of Business at the
+**University of Denver**. My research applies the tools of applied
+microeconomics to **real estate finance, sustainability, and urban economics** —
+including real estate market cycles and investment, sustainable and regenerative
+development in the built environment, and the economics of housing affordability.
 
-::: {.callout-note appearance="simple"}
-This is a starter site. Replace the bio above, swap in your real headshot at
-`assets/headshot.svg` (or `.jpg`), update the Google Scholar link, and add your
-papers in [Publications](publications.qmd) and [Research](research.qmd).
-:::
+I hold a Ph.D. in Economics from Colorado State University and an M.S. in Real
+Estate and Construction Management from the University of Denver, and I bring two
+decades of industry experience in real estate research, development, and
+investment to my academic work.
 
 ## Research interests
 
-- Environmental and urban economics
-- Real estate, land use, and zoning
-- Sustainability in an urban context
-- Community-engaged and community-integrated research
+- Real estate finance, investment, and market cycles
+- Sustainability and regenerative development in the built environment
+- Affordable housing and housing-market dynamics
+- Urban, regional, and environmental economics
+- Spatial econometrics and applied microeconomics
 
 ## News
 
-- **2026** — Launched a new academic website built with Quarto.
-- *Add dated items here as you publish papers, present, or receive awards.*
+- **2024** — Chaired the inaugural American Real Estate Society (ARES) Fall
+  Research Symposium.
+- **2023** — Published *Investable Real Estate Allocations in a Mixed-Asset
+  Portfolio* (*Journal of Real Estate Portfolio Management*) and *Spatial Models
+  of Travel Behavior and Land Use Restriction* (*Journal of Sustainable Real
+  Estate*).
+- **2022** — Promoted to Associate Professor; awarded the ARES Manuscript Prize
+  for Best Real Estate Cycles paper.

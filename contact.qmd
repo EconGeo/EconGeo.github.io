@@ -3,15 +3,29 @@ title: "Contact"
 toc: false
 ---
 
-The fastest way to reach me is by email.
+The best way to reach me is by email. Click below and your mail client will open
+with my address filled in.
 
-- **Email:** [drewmueller@gmail.com](mailto:drewmueller@gmail.com)
-- **Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=REPLACE_ME)
+```{=html}
+<p style="margin:0.4rem 0 1.4rem;">
+  <a id="email-link" class="btn btn-primary" href="#">Email me</a>
+</p>
+<script>
+  (function () {
+    var user = "andrew.mueller", domain = "du.edu";
+    document.getElementById("email-link").href = "mailto:" + user + "@" + domain;
+  })();
+</script>
+```
+
+You can also find me here:
+
+- **Google Scholar:** [Andrew G. Mueller](https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en)
 - **LinkedIn:** [andrew-mueller-2101](https://www.linkedin.com/in/andrew-mueller-2101)
-- **Twitter / X:** [@DrAndrewMueller](https://twitter.com/DrAndrewMueller)
 - **GitHub:** [EconGeo](https://github.com/EconGeo)
 
-::: {.callout-note appearance="simple"}
-Replace the email with your institutional address and add a mailing address or
-office location here if you'd like one on the site.
-:::
+**Office**
+
+Franklin L. Burns School of Real Estate and Construction Management\
+Daniels College of Business, University of Denver\
+2101 S. University Blvd., Suite 380, Denver, CO 80208

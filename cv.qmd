@@ -5,9 +5,7 @@ title: "Curriculum Vitae"
 [Download CV (PDF)](cv/mueller-cv.pdf){.btn .btn-primary}
 &nbsp; *Last updated: June 2026*
 
-The full CV is embedded below and also available as a download. To update it,
-replace `cv/mueller-cv.pdf` with your current CV — the embed and the download
-button both point at that one file.
+The full CV is embedded below and also available as a download.
 
 ```{=html}
 <iframe src="cv/mueller-cv.pdf" width="100%" height="900px"

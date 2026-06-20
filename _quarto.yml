@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Andrew Mueller"
-  description: "Andrew Mueller — research in environmental, urban, and real estate economics."
+  description: "Andrew G. Mueller — Associate Professor at the University of Denver; research in real estate finance, sustainability, and urban economics."
   site-url: "https://drewmueller.com"
   navbar:
     pinned: true
@@ -23,17 +23,14 @@ website:
         href: contact.qmd
     right:
       - icon: envelope
-        href: "mailto:drewmueller@gmail.com"
-        aria-label: Email
+        href: contact.qmd
+        aria-label: Contact
       - icon: mortarboard-fill
-        href: "https://scholar.google.com/citations?user=REPLACE_ME"
+        href: "https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en"
         aria-label: Google Scholar
       - icon: linkedin
         href: "https://www.linkedin.com/in/andrew-mueller-2101"
         aria-label: LinkedIn
-      - icon: twitter-x
-        href: "https://twitter.com/DrAndrewMueller"
-        aria-label: Twitter
       - icon: github
         href: "https://github.com/EconGeo"
         aria-label: GitHub
