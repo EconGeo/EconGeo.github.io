@@ -176,11 +176,12 @@ share their work with the world. A few tools I point them to:
 
 **Website hosting**
 
-- [WordPress](https://wordpress.com), [Weebly](https://www.weebly.com), [Wix](https://www.wix.com), [Adobe Portfolio](https://portfolio.adobe.com), and DU Portfolio
+::: {.link-grid}
+[[GitHub Pages]{.lc-title} [Free hosting for a personal or project website, published straight from a GitHub repository.]{.lc-desc}](https://pages.github.com){.link-card}
+:::
 
 **Infographics & visualization**
 
 ::: {.link-grid}
 [[Kumu]{.lc-title} [For creating complex network story maps.]{.lc-desc}](https://kumu.io){.link-card}
-[[Canva]{.lc-title} [For visual editing and layout.]{.lc-desc}](https://www.canva.com){.link-card}
 :::
