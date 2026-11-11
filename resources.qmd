@@ -100,6 +100,11 @@ solutions to city building, transportation, and other built-environment problems
 [[EPA Smart Location Database]{.lc-title} [Density, land-use diversity, street design, and transit access for every block group.]{.lc-desc}](https://www.epa.gov/smartgrowth/smart-location-mapping){.link-card}
 [[National Zoning Atlas]{.lc-title} [Standardized, mappable zoning codes across U.S. jurisdictions.]{.lc-desc}](https://www.zoningatlas.org){.link-card}
 [[Urban Institute Data Catalog]{.lc-title} [Datasets from Urban's housing, finance, and neighborhood research.]{.lc-desc}](https://datacatalog.urban.org){.link-card}
+[[Overture Maps]{.lc-title} [Open global data on addresses, buildings, places, and transportation networks in one consistent schema.]{.lc-desc}](https://overturemaps.org){.link-card}
+[[Microsoft Building Footprints]{.lc-title} [About 1.4 billion machine-detected building outlines worldwide, many with height estimates.]{.lc-desc}](https://github.com/microsoft/GlobalMLBuildingFootprints){.link-card}
+[[Global Building Atlas]{.lc-title} [Worldwide building heights and simple 3D models (TUM); heights are licensed for non-commercial use.]{.lc-desc}](https://github.com/zhu-xlab/GlobalBuildingAtlas){.link-card}
+[[Dynamic World]{.lc-title} [Near-real-time, 10-meter global land cover for tracking development, greening, and land-use change.]{.lc-desc}](https://dynamicworld.app){.link-card}
+[[Google Earth Engine Data Catalog]{.lc-title} [Satellite imagery, elevation, land cover, and climate data with free cloud computing for research.]{.lc-desc}](https://developers.google.com/earth-engine/datasets){.link-card}
 :::
 
 ### Climate, energy & environment
