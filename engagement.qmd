@@ -49,7 +49,7 @@ DU faculty and students can engage with the community.
 :::
 
 ::: {.feature .flip}
-::: {.feature-img style="background-image: url('assets/img/theme-urban.jpg');"}
+::: {.feature-img style="background-image: url('assets/img/circ-hands.jpg');"}
 :::
 ::: {}
 [CityCraft · West Denver]{.tag}
@@ -83,11 +83,19 @@ the Built Environment, and Regis University's Business School.
 [[Colorado Springs Business Journal · 2018]{.lc-meta} [A how-to: Urban renewal done right]{.lc-title} [Interview on what makes urban renewal work: community engagement, sustainability-minded planning, and keeping a neighborhood's identity. Republished by Daniels.]{.lc-desc}](https://daniels.du.edu/blog/a-how-to-urban-renewal-done-right/){.link-card}
 :::
 
+::: {.feature}
+::: {.feature-img style="background-image: url('assets/img/community-painting.jpg');"}
+:::
+::: {}
+[DU · Public good]{.tag}
+
 ## Community-engaged scholarship {#sec-community}
 
 The University of Denver is a private university committed to the public good. I
 work with community partners on collaborative research and engaged-learning
 projects, and I point students and collaborators toward:
+:::
+:::
 
 ::: {.project-grid}
 [<i class="bi bi-people"></i> DU Center for Community Engagement to advance Scholarship and Learning (CCESL)](https://www.du.edu/ccesl/){.project-link}
