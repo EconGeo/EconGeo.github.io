@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - assets/img/
+    - CNAME
 
 website:
   title: "Andrew Mueller"
