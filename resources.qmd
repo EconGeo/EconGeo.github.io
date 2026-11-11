@@ -37,6 +37,7 @@ solutions to city building, transportation, and other built-environment problems
 [[Doughnut Economics Action Lab]{.lc-title} [Tools for cities applying Kate Raworth's doughnut framework.]{.lc-desc}](https://doughnuteconomics.org){.link-card}
 [[CityCraft Foundation]{.lc-title} [Regenerative city-building in West Denver and beyond.]{.lc-desc}](https://www.citycraftfoundation.org){.link-card}
 [[Sun Valley EcoDistrict]{.lc-title} [Master plan for a 100-acre Denver neighborhood guided by the EcoDistricts Protocol (Shears Adkins Rockmore).]{.lc-desc}](https://sararch.com/project/sun-valley-eco-district/){.link-card}
+[[Sun Valley Redevelopment (DHA)]{.lc-title} [Denver Housing Authority's replacement of 333 public housing units with 940 new mixed-income homes and an 11-acre riverfront park.]{.lc-desc}](https://www.denverhousing.org/sun-valley-redevelopment/){.link-card}
 :::
 
 **ESG & sustainable investment**
