@@ -47,7 +47,7 @@ body-classes: home
 
 I am an **Associate Professor** in the Franklin L. Burns School of Real Estate
 and Construction Management, part of the Daniels College of Business at the
-**University of Denver**. My research applies the tools of applied
+**University of Denver**. My research uses the tools of applied
 microeconomics to **real estate finance, sustainability, and urban economics** —
 including real estate market cycles and investment, sustainable and regenerative
 development in the built environment, and the economics of housing affordability.
