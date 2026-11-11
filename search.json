@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "A curated set of resources for the built environment, urban economics, and teaching. I add to these lists as I find more. Most of the data sources are free, and many can be downloaded at the census-tract or metro level."
+  },
+  {
+    "objectID": "resources.html#sec-environmental",
+    "href": "resources.html#sec-environmental",
+    "title": "Resources",
+    "section": "Regenerative development & sustainability",
+    "text": "Regenerative development & sustainability\nA collection of resources about the environment, with a particular focus on the built environment, for students and researchers interested in regenerative solutions to city building, transportation, and other built-environment problems.\n\nIntergovernmental Panel on Climate Change The IPCC’s assessment reports on the science of climate change. A Green New Deal (2008) New Economics Foundation’s original Green New Deal report (archived). Regenesis Group Pioneers of regenerative development and design practice. International Living Future Institute Home of the Living Building Challenge. U.S. Green Building Council The LEED rating system and green-building education. Capital Institute Regenerative economics and the principles of a regenerative economy. Doughnut Economics Action Lab Tools for cities applying Kate Raworth’s doughnut framework. CityCraft Foundation Regenerative city-building in West Denver and beyond.\n\nResiliency frameworks\n\nResilient Cities Network The successor network to the Rockefeller Foundation’s 100 Resilient Cities. UN SDGs — 2019 U.S. Cities Report How the 100 largest U.S. metros perform on the Sustainable Development Goals. Colorado Resiliency Office State resources for community resilience planning."
+  },
+  {
+    "objectID": "resources.html#sec-data",
+    "href": "resources.html#sec-data",
+    "title": "Resources",
+    "section": "Data sources",
+    "text": "Data sources\n\nReal estate, housing & the economy\n\nFRED Federal Reserve Bank of St. Louis — thousands of economic series, including rates, home prices, and metro data. data.census.gov American Community Survey and decennial census tables down to the block group. HUD User datasets Fair Market Rents, income limits, CHAS affordability data, and LIHTC properties. FHFA House Price Index Repeat-sales home price indexes for the nation, states, metros, counties, and ZIP codes. Zillow Research data Home value (ZHVI) and rent (ZORI) indexes, inventory, and sales data. Census building permits Monthly and annual new residential construction permits by metro and place. Bureau of Labor Statistics Employment, wages, CPI, and construction-cost data. BEA regional data GDP and personal income by state, county, and metro area. NCREIF The NCREIF Property Index and other institutional real estate performance benchmarks. Nareit data & research REIT index returns, market capitalization, and sector data. NLIHC — Out of Reach The housing wage needed to afford a modest rental in every state, metro, and county. Eviction Lab Eviction filing data and tracking for U.S. cities and states (Princeton).\n\n\n\nSpatial, urban & transportation\n\nIPUMS Harmonized census and survey microdata (USA, CPS, international). NHGIS Historical census tables and GIS boundary files from 1790 to the present. Census TIGER/Line Shapefiles for tracts, block groups, roads, and places. LEHD / LODES Where people live and work: block-level origin–destination employment data. EPA Smart Location Database Density, land-use diversity, street design, and transit access for every block group. National Zoning Atlas Standardized, mappable zoning codes across U.S. jurisdictions. Urban Institute Data Catalog Datasets from Urban’s housing, finance, and neighborhood research.\n\n\n\nClimate, energy & environment\n\nNOAA NCEI Historical climate and weather data, including temperature and precipitation records. Climate Mapping for Resilience & Adaptation County-level projections of heat, drought, flooding, and wildfire. ENERGY STAR benchmarking Portfolio Manager, the standard tool for measuring building energy and water use. USGBC project directory Searchable directory of LEED-certified projects and their scorecards.\n\n\n\nDenver & Colorado\n\nDenver Open Data Catalog City and County of Denver datasets: parcels, zoning, permits, and more. Colorado Information Marketplace The State of Colorado’s open data portal. DRCOG Regional Data Catalog Denver Regional Council of Governments data on land use, transportation, and growth. State Demography Office Colorado population estimates and forecasts by county and municipality."
+  },
+  {
+    "objectID": "resources.html#sec-centers",
+    "href": "resources.html#sec-centers",
+    "title": "Resources",
+    "section": "Research centers & think tanks",
+    "text": "Research centers & think tanks\n\nHarvard Joint Center for Housing Studies The State of the Nation’s Housing and research on rental markets and affordability. Lincoln Institute of Land Policy Land value, property taxation, and land-use policy research. Terner Center for Housing Innovation UC Berkeley research on housing supply, cost, and policy. NYU Furman Center Research and data on housing, neighborhoods, and land use. Brookings Metro Policy research on metropolitan economies and place-based opportunity. Urban Institute Research on housing finance, neighborhoods, and urban policy. Urban Land Institute Industry research, case studies, and Emerging Trends in Real Estate. ULI Centers & Initiatives ULI’s centers on housing, sustainability, and resilience."
+  },
+  {
+    "objectID": "resources.html#sec-associations",
+    "href": "resources.html#sec-associations",
+    "title": "Resources",
+    "section": "Professional & academic associations",
+    "text": "Professional & academic associations\n\nAmerican Real Estate Society (ARES) Annual meeting, journals, and manuscript prizes for real estate research. AREUEA American Real Estate and Urban Economics Association. Urban Economics Association Conferences and resources for urban and regional economists. CREDA (formerly NAIOP) Commercial Real Estate Development Association; home of the Real Estate Challenge."
+  },
+  {
+    "objectID": "resources.html#sec-urban-econ",
+    "href": "resources.html#sec-urban-econ",
+    "title": "Resources",
+    "section": "Methods & open textbooks",
+    "text": "Methods & open textbooks\n\nRegional Research Institute (WVU) Regional economics web books, articles, and more. Causal Inference: The Mixtape Scott Cunningham’s free textbook on applied causal inference. Geocomputation with R Free book on spatial data analysis and mapping in R. Spatial Data Science Pebesma and Bivand’s open book on spatial statistics in R. QuantEcon Open lectures on quantitative economics in Python and Julia."
+  },
+  {
+    "objectID": "resources.html#sec-reading",
+    "href": "resources.html#sec-reading",
+    "title": "Resources",
+    "section": "Urban news & reading",
+    "text": "Urban news & reading\n\nBloomberg CityLab Reporting on cities, housing, and transportation. Planetizen Planning news and job listings. Next City Nonprofit journalism on equitable cities. Strong Towns Essays on the finances and form of American towns and cities."
+  },
+  {
+    "objectID": "resources.html#sec-discussion",
+    "href": "resources.html#sec-discussion",
+    "title": "Resources",
+    "section": "Discussion-based teaching",
+    "text": "Discussion-based teaching\nI use discussion in my topics class, Triple Bottom Line and the Built Environment, to encourage students to engage deeply with material on social justice and environmental sustainability — including by facilitating their own class discussions. As Brookfield and Preskill describe it, the purposes of discussion are fourfold: (1) to help participants reach a more critically informed understanding of the topic, (2) to enhance their self-awareness and capacity for self-critique, (3) to foster an appreciation for the diversity of opinion that emerges when viewpoints are exchanged openly and honestly, and (4) to act as a catalyst for taking informed action in the world.\n\nStephen Brookfield’s website Works, resources, and tools for facilitating discussion and adult learning, including the Critical Incident Questionnaire. DU Office of Teaching and Learning Resources for teaching and for using technology to support learning. The Discussion Book: 50 Great Ways to Get People Talking A one-page summary of the book’s 50 methods (Columbia CTL).\n\n\nBrookfield, S. D., & Preskill, S. (2005). Discussion as a Way of Teaching: Tools and Techniques for Democratic Classrooms. John Wiley & Sons."
+  },
+  {
+    "objectID": "resources.html#sec-technology",
+    "href": "resources.html#sec-technology",
+    "title": "Resources",
+    "section": "Technology in the classroom",
+    "text": "Technology in the classroom\nI like to use technology in the classroom to give students the opportunity to share their work with the world. A few tools I point them to:\nWebsite hosting\n\nWordPress, Weebly, Wix, Adobe Portfolio, and DU Portfolio\n\nInfographics & visualization\n\nKumu For creating complex network story maps. Canva For visual editing and layout."
+  },
+  {
+    "objectID": "photo-credits.html",
+    "href": "photo-credits.html",
+    "title": "Photo credits",
+    "section": "",
+    "text": "Photographs on this site come from Wikimedia Commons and are used under the licenses listed below. Images were resized and, on some pages, cropped or shown behind a darkened overlay; no other changes were made.\n\n\n\nUsed on\nPhoto\nAuthor\nLicense\n\n\n\n\nHome hero; Contact banner\nDenver Downtown Aerial, December 2025\nSpicypepper999\nCC0\n\n\nHome and Research cards; Publications and CV banners\nDenver Skyline at Blue Hour\nBrian Papantonio\nCC BY 2.0\n\n\nHome and Research cards; Engagement and Resources images\n2007 community garden DenverCO 787214962\nemerson12\nCC BY 2.0\n\n\nHome and Research cards\nRay Apartments (3814648202)\nJeffrey Beall from Denver, Colorado, USA\nCC BY-SA 2.0\n\n\nResearch card; Engagement\nDenver Union Station - June 2022 - Sarah Stierch 01\nMissvain\nCC BY 4.0\n\n\nTeaching banner\nUniversity of Denver campus pics 027\nCW221\nCC BY-SA 3.0\n\n\nEngagement banner\nDenver & Front Range (Colorado, USA) 10\nJames St. John\nCC BY 2.0\n\n\nResearch banner; Home closing band\nMount Evans and Denver skyline from City Park Golf Course\nDavid Herrera from Albuquerque, NM, Bernalillo\nCC BY 2.0\n\n\nHome card\nDenver Light Rail (23929768471)\nPaul Sableman\nCC BY 2.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew G. Mueller",
+    "section": "",
+    "text": "University of Denver · Burns School of Real Estate\n      \n      Associate Professor of Real Estate & Construction Management\n      Applied microeconomics for real estate finance, sustainability, and\n        the cities we build — with an eye toward regenerative development.\n      \n        Explore my research\n        View CV"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Andrew G. Mueller",
+    "section": "About",
+    "text": "About\nI am an Associate Professor in the Franklin L. Burns School of Real Estate and Construction Management, part of the Daniels College of Business at the University of Denver. My research applies the tools of applied microeconomics to real estate finance, sustainability, and urban economics — including real estate market cycles and investment, sustainable and regenerative development in the built environment, and the economics of housing affordability.\nI hold a Ph.D. in Economics from Colorado State University and an M.S. in Real Estate and Construction Management from the University of Denver, and I bring two decades of industry experience in real estate research, development, and investment to my academic work.\nI am also a regenerative practitioner: I bring regenerative development principles to community-engaged projects in the Denver region, from the DU Grand Challenges sustainability cohort to the Community Integrated Research Center. You can read more about that work on the Engagement page."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Andrew G. Mueller",
+    "section": "News",
+    "text": "News\n\n\n2024\nPublished Investable Real Estate Allocations in a Mixed-Asset Portfolio (Journal of Real Estate Portfolio Management); chaired the inaugural American Real Estate Society (ARES) Fall Research Symposium.\n\n\n2023\nPublished Spatial Models of Travel Behavior and Land Use Restriction (Journal of Sustainable Real Estate).\n\n\n2022\nPromoted to Associate Professor; awarded the ARES Manuscript Prize for Best Real Estate Cycles paper."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email. Click below and your mail client will open with my address filled in.\n\n  Email me\n\n\nYou can also find me here:\n\nGoogle Scholar: Andrew G. Mueller\nLinkedIn: andrew-mueller-2101\nGitHub: EconGeo\n\nOffice\nFranklin L. Burns School of Real Estate and Construction Management\nDaniels College of Business, University of Denver\n2101 S. University Blvd., Suite 380, Denver, CO 80208"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach real estate and built-environment courses at the University of Denver, with an emphasis on social justice and environmental sustainability in the built environment. My classes lean on discussion-based learning to help students engage deeply with the material, and I use classroom technology to give students the chance to share their work with the world."
+  },
+  {
+    "objectID": "teaching.html#sec-courses",
+    "href": "teaching.html#sec-courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\n\n\nREAL 1700 / 4000\n\nTriple Bottom Line and the Built Environment\nA topics course (formerly Business of the Built Environment) examining the environmental, social, and economic dimensions of real estate and city building.\n\n\n\n\nREAL 3307 / 4407\n\nReal Estate Finance / Income Property Finance\nFinance and investment analysis for income-producing real estate.\n\n\n\n\nREAL 4800\n\nNAIOP Rocky Mountain Real Estate Challenge\nA capstone, competition-based course in which student teams develop a real proposal for the regional NAIOP Real Estate Challenge.\n\n\n\n\nREAL 4701\n\nReal Estate Market Analysis\nMethods for analyzing real estate markets, demand, and submarket dynamics."
+  },
+  {
+    "objectID": "teaching.html#sec-student-projects",
+    "href": "teaching.html#sec-student-projects",
+    "title": "Teaching",
+    "section": "Student projects",
+    "text": "Student projects\nIn Triple Bottom Line and the Built Environment, students build public websites around their work:\n\n\nGraduate · REAL 4000\nStudents choose a critical issue related to the built environment, outline the primary challenges, discuss how the issue affects the City of Denver, and propose a plan of action for Denver to address it.\n\n\nUndergraduate · REAL 1700\nStudents identify a parcel of land in the Denver metro region and propose a redevelopment — a regenerative feasibility study covering stakeholder engagement, a theoretical LEED rating, and the financing of green enhancements.\n\n\n\nFall 2020 — graduate class\n\n Englewood Regeneration Project  Biophilic Design  Sustainable Solutions: Green Technology  Low-Income Community Regeneration  Opportunity Zones USA  Urbanization in Denver: The Impact of Urbanization on Denver’s Walkability\n\n\n\nFall 2019 — graduate class\n\n Rural Depopulation: Craig, CO Revitalization  ReGen Den: Adaptive Redevelopment vs. Rebuild  The Rise of Sun Valley: Neighborhood Revitalization  YAVI Future: Sustainability via Adaptive Architecture  Water Wait\n\nFor my community-engaged and regenerative work, see Engagement. For discussion-based teaching and classroom-technology resources, see Resources."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research applies the tools of applied microeconomics to questions in real estate finance, sustainability, and urban economics. A recurring theme is how the built environment can move toward regenerative development — projects and policies that restore environmental and social systems rather than merely reducing harm. Related strands of my work examine real estate market cycles and investment strategy, the economics of housing affordability, environmental and social (ESG) performance in real estate, and the links between zoning, urban form, and travel behavior.\nFor published, peer-reviewed work, see Publications. Current working papers are listed below; drafts are available on request."
+  },
+  {
+    "objectID": "research.html#sec-working-papers",
+    "href": "research.html#sec-working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n\n\n\nESG Machine learning\n\nAssessing the Consistency of REIT ESG Scores Relative to ESG Reports\nWith B. Williams and A. Holder.\n\nUses textual analysis and machine learning to evaluate how consistently the ESG scores assigned to real estate investment trusts (REITs) reflect the content of the firms’ own ESG reports.\n\n\n\n\n\n\n\n\n\nRegenerative development\n\nTowards Regenerative Development: Adopting Principles and Measuring Outcomes in Real Estate Projects\n\nDevelops a framework for applying regenerative development principles in real estate, and proposes ways to measure the environmental and social outcomes of projects that adopt them.\n\n\n\n\n\n\n\n\n\nHousing Affordability\n\nNowhere to Sleep at the Bottom: The Plight of Housing Affordability for the Lowest Earners in the U.S.\nWith T. J. PlaHovinsak and L. Terschan.\n\nExamines housing affordability for the lowest-income households in the United States and the structural gaps that leave the bottom of the market underserved.\n\n\n\n\n\n\n\n\n\nCapital markets International\n\nGlobal Capital Flows to Real Estate\nWith S. Laposa and G. R. Mueller.\n\nInvestigates the macroeconomic and cross-border determinants of capital flows into real estate, drawing on lessons from the foreign direct investment literature."
+  },
+  {
+    "objectID": "engagement.html",
+    "href": "engagement.html",
+    "title": "Engagement",
+    "section": "",
+    "text": "As a regenerative practitioner, I work to apply regenerative development principles — restoring environmental and social systems rather than simply reducing harm — through community-engaged scholarship in and around Denver. Below are several initiatives I have helped lead."
+  },
+  {
+    "objectID": "engagement.html#sec-grand-challenges",
+    "href": "engagement.html#sec-grand-challenges",
+    "title": "Engagement",
+    "section": "Environmental Sustainability in an Urban Context",
+    "text": "Environmental Sustainability in an Urban Context\nI co-led the Environmental Sustainability in an Urban Context cohort of the DU Grand Challenges (2018–2021). Each Grand Challenges cohort spends its first year in a collective-impact process to determine the group’s goals; the Sustainability Cohort set an overarching objective to deepen the DU community’s involvement with community partners, organized around four pilot projects."
+  },
+  {
+    "objectID": "engagement.html#sec-circ",
+    "href": "engagement.html#sec-circ",
+    "title": "Engagement",
+    "section": "Community Integrated Research Center (CIRC)",
+    "text": "Community Integrated Research Center (CIRC)\nThe Community Integrated Research Center (CIRC) was created as part of the CityCraft initiative to bring scholars from across Colorado’s Front Range together to help the City and County of Denver redevelop West Denver in a regenerative way. The group includes members of the CityCraft team along with CU Denver’s Urban Planning Department, DU’s Real Estate and Construction Management Department, Colorado State University’s Institute for the Built Environment, and Regis University’s Business School."
+  },
+  {
+    "objectID": "engagement.html#sec-projects",
+    "href": "engagement.html#sec-projects",
+    "title": "Engagement",
+    "section": "Projects I’ve worked on",
+    "text": "Projects I’ve worked on\n\nRegenerative development · Denver CityCraft Regenerative city-building for West Denver neighborhoods. Affordable housing · Sun Valley Sun Valley EcoDistrict Denver Housing Authority’s redevelopment of the Sun Valley neighborhood, planned under the EcoDistricts Protocol. Master plan Sun Valley EcoDistrict plan — national recognition Mithun on the award-winning master plan for the EcoDistrict. Impact investing CityCraft Ventures The CityCraft initiative behind the Community Integrated Research Center."
+  },
+  {
+    "objectID": "engagement.html#sec-news",
+    "href": "engagement.html#sec-news",
+    "title": "Engagement",
+    "section": "In the news",
+    "text": "In the news\n\nDaniels College of Business · 2024 Featured Researcher: Andrew Mueller A Q&A on zoning, walkability, regenerative development, and work with the Denver Housing Authority in Sun Valley. Daniels College of Business · 2020 Developing Denver How Burns School students use regenerative development to help revitalize Sun Valley. Colorado Springs Business Journal · 2018 A how-to: Urban renewal done right Interview on what makes urban renewal work: community engagement, sustainability-minded planning, and keeping a neighborhood’s identity. Republished by Daniels."
+  },
+  {
+    "objectID": "engagement.html#sec-community",
+    "href": "engagement.html#sec-community",
+    "title": "Engagement",
+    "section": "Community-engaged scholarship",
+    "text": "Community-engaged scholarship\nThe University of Denver is a private university committed to the public good. I work with community partners on collaborative research and engaged-learning projects, and I point students and collaborators toward:\n\n DU Center for Community Engagement to advance Scholarship and Learning (CCESL)  DU Scholar Shop — community partners seeking DU faculty and students  Metro Denver Nature Alliance — equitable access to nature"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A complete and current list — including conference presentations, funded research, and professional publications — is available on my CV and Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#sec-pubs",
+    "href": "publications.html#sec-pubs",
+    "title": "Publications",
+    "section": "Refereed journal articles",
+    "text": "Refereed journal articles\n\n\n2024\n\n\n\nInvestable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles\nMueller, G. R., & Mueller, A. G.\nJournal of Real Estate Portfolio Management\nDOI \n\n\n\n\n\n2023\n\n\n\nSpatial Models of Travel Behavior and Land Use Restriction\nMueller, A. G., & Weiler, S.\nJournal of Sustainable Real Estate 15(1), 1–17\n\n\n\n\n\n2022\n\n\n\nFiltering to Affordable: Does Multifamily Housing Become More Affordable as it Ages?\nMueller, A. G., Terschan, L., & PlaHovinsak, T. J.\nJournal of Real Estate Research 44(2), 254–286\n\n\n\n\n\n2020\n\n\n\nA Summary of Recent Urban Form Literature and Discussion of the Implications for Real Estate Developers and Investors\nMueller, A. G., & Sanderford, A.\nJournal of Real Estate Literature 28(1), 50–68\n\n\nEnabling Collaboration and Innovation in Denver’s Smart City through a Living Lab: A Social Capital Perspective\nBartelt, V., Urbaczewski, A., Mueller, A. G., & Sarker, S.\nEuropean Journal of Information Systems 29(4), 369–387\n\n\n\n\n\n2019\n\n\n\nThe Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking\nMueller, A. G., & Trujillo, D. J.\nJournal of Sustainable Real Estate 11(1), 108–129\n\n\n\n\n\n2017\n\n\n\nThe Great Recession and Real Estate Cycles: Challenges, Opportunities, and Lessons Learned\nLaposa, S., & Mueller, A. G.\nJournal of Property Investment & Finance 35(3), 321–340\n\n\nDid Increased Large Bank Concentration of US Mortgage Loan Originations Explain Rising Originator Profits?\nGuirguis, H., Mueller, G. R., Harris, J., & Mueller, A. G.\nInternational Real Estate Review 20(3), 325–348\n\n\n\n\n\n2016\n\n\n\nForecasting Real Estate Cycle Risks in Portfolios of Office Properties Across Cities\nEvans, R. D., & Mueller, A. G.\nJournal of Real Estate Portfolio Management 22(2), 199–215\n 2016 American Real Estate Society Manuscript Prize, Best Office Buildings/Office Parks paper\n\n\nReal Estate Market Cycle Lengths and Magnitudes\nMueller, G. R., & Mueller, A. G.\nReal Estate Review 45(3)\n\n\nIndustrial Real Estate Cycles: Markov Chain Applications\nEvans, R. D., & Mueller, A. G.\nJournal of Real Estate Portfolio Management 22(1), 75–90\n\n\n\n\n\n2010\n\n\n\nWind Farm Announcements and Rural Home Prices: Maxwell Ranch and Rural Northern Colorado\nLaposa, S., & Mueller, A. G.\nJournal of Sustainable Real Estate 2(1), 383–402\n\n\n\n\n\n2008\n\n\n\nInternational Real Estate Volatility: A Tactical Investment Strategy\nMueller, G. R., Boney, V., & Mueller, A. G.\nJournal of Real Estate Portfolio Management 14(4), 415–423\n\n\n\n\n\n2007\n\n\n\nWarehouse Demand and the Path of Goods Movement\nMueller, G. R., & Mueller, A. G.\nJournal of Real Estate Portfolio Management 13(1), 45–55\n\n\n\n\n\n2003\n\n\n\nPublic and Private Real Estate in a Mixed-Asset Portfolio\nMueller, A. G., & Mueller, G. R.\nJournal of Real Estate Portfolio Management 9(3), 193–203"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)   Last updated: June 2026\nThe full CV is embedded below and also available as a download.\n\n  &lt;p&gt;Your browser does not display PDFs inline.\n     &lt;a href=\"cv/mueller-cv.pdf\"&gt;Download the CV&lt;/a&gt; instead.&lt;/p&gt;"
+  }
+]
