@@ -38,6 +38,25 @@ solutions to city building, transportation, and other built-environment problems
 [[CityCraft Foundation]{.lc-title} [Regenerative city-building in West Denver and beyond.]{.lc-desc}](https://www.citycraftfoundation.org){.link-card}
 :::
 
+**ESG & sustainable investment**
+
+::: {.link-grid}
+[[GRESB]{.lc-title} [The ESG benchmark for real estate and infrastructure portfolios.]{.lc-desc}](https://www.gresb.com){.link-card}
+[[CRREM]{.lc-title} [Carbon Risk Real Estate Monitor: decarbonization pathways and stranding-risk tools for buildings.]{.lc-desc}](https://www.crrem.eu){.link-card}
+[[Principles for Responsible Investment]{.lc-title} [The UN-supported investor network for integrating ESG into investment decisions.]{.lc-desc}](https://www.unpri.org){.link-card}
+[[ISSB (IFRS Sustainability Standards)]{.lc-title} [Global baseline standards for sustainability and climate-related financial disclosure.]{.lc-desc}](https://www.ifrs.org/groups/international-sustainability-standards-board/){.link-card}
+[[Global Reporting Initiative]{.lc-title} [Widely used standards for corporate sustainability reporting.]{.lc-desc}](https://www.globalreporting.org){.link-card}
+:::
+
+**Circular economy & embodied carbon**
+
+::: {.link-grid}
+[[Ellen MacArthur Foundation]{.lc-title} [Circular-economy principles, case studies, and design for cities.]{.lc-desc}](https://www.ellenmacarthurfoundation.org){.link-card}
+[[Circularity Gap Report]{.lc-title} [Circle Economy's annual measure of how circular the global economy is.]{.lc-desc}](https://circularity-gap.world){.link-card}
+[[Building Transparency (EC3)]{.lc-title} [Free calculator for the embodied carbon of construction materials.]{.lc-desc}](https://buildingtransparency.org){.link-card}
+[[Architecture 2030]{.lc-title} [Targets and tools for cutting operational and embodied carbon in the built environment.]{.lc-desc}](https://www.architecture2030.org){.link-card}
+:::
+
 **Resiliency frameworks**
 
 ::: {.link-grid}
@@ -58,6 +77,7 @@ solutions to city building, transportation, and other built-environment problems
 [[Zillow Research data]{.lc-title} [Home value (ZHVI) and rent (ZORI) indexes, inventory, and sales data.]{.lc-desc}](https://www.zillow.com/research/data/){.link-card}
 [[Census building permits]{.lc-title} [Monthly and annual new residential construction permits by metro and place.]{.lc-desc}](https://www.census.gov/construction/bps/){.link-card}
 [[Bureau of Labor Statistics]{.lc-title} [Employment, wages, CPI, and construction-cost data.]{.lc-desc}](https://www.bls.gov){.link-card}
+[[World Development Indicators]{.lc-title} [The World Bank's cross-country data on economies, urbanization, and the environment.]{.lc-desc}](https://databank.worldbank.org/source/world-development-indicators){.link-card}
 [[BEA regional data]{.lc-title} [GDP and personal income by state, county, and metro area.]{.lc-desc}](https://www.bea.gov/data/by-place-county-metro-local){.link-card}
 [[NCREIF]{.lc-title} [The NCREIF Property Index and other institutional real estate performance benchmarks.]{.lc-desc}](https://www.ncreif.org){.link-card}
 [[Nareit data & research]{.lc-title} [REIT index returns, market capitalization, and sector data.]{.lc-desc}](https://www.reit.com/data-research){.link-card}
@@ -165,6 +185,17 @@ opinion that emerges when viewpoints are exchanged openly and honestly, and
 
 > Brookfield, S. D., & Preskill, S. (2005). *Discussion as a Way of Teaching:
 > Tools and Techniques for Democratic Classrooms.* John Wiley & Sons.
+
+**More teaching resources I recommend**
+
+::: {.link-grid}
+[[Liberating Structures]{.lc-title} [Simple facilitation methods that get every voice in the room into the conversation.]{.lc-desc}](https://www.liberatingstructures.com){.link-card}
+[[Project Zero Thinking Routines]{.lc-title} [Harvard's short, repeatable routines that make student thinking visible.]{.lc-desc}](https://pz.harvard.edu/thinking-routines){.link-card}
+[[CORE Econ]{.lc-title} [Free, modern economics textbooks built around real-world problems and data.]{.lc-desc}](https://www.core-econ.org){.link-card}
+[[Gapminder]{.lc-title} [Interactive data tools and lesson materials for teaching with global data.]{.lc-desc}](https://www.gapminder.org){.link-card}
+[[Starting Point: Teaching Economics]{.lc-title} [SERC's collection of active-learning techniques and examples for economics.]{.lc-desc}](https://serc.carleton.edu/econ/index.html){.link-card}
+[[Eberly Center (Carnegie Mellon)]{.lc-title} [Evidence-based teaching principles and strategies for course design.]{.lc-desc}](https://www.cmu.edu/teaching/){.link-card}
+:::
 
 ## Technology in the classroom {#sec-technology}
 
