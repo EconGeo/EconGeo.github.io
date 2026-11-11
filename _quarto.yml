@@ -7,7 +7,7 @@ project:
 website:
   title: "Andrew Mueller"
   description: "Andrew G. Mueller — Associate Professor at the University of Denver; research in real estate finance, sustainability, and urban economics."
-  site-url: "https://drewmueller.com"
+  site-url: "https://www.drewmueller.com"
   navbar:
     pinned: true
     left:

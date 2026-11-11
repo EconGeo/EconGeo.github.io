@@ -5,18 +5,42 @@ subtitle: "Data, research, and tools I share with students and collaborators."
 ---
 
 A curated set of resources for the built environment, urban economics, and
-teaching. I add to these lists as I find more. Students should start with the data
-sources; most of them are free, and many can be downloaded at the census-tract or
-metro level.
+teaching. I add to these lists as I find more. Most of the data sources are free, and many can be downloaded at the
+census-tract or metro level.
 
 ::: {.theme-strip}
+[<i class="bi bi-tree"></i> Regenerative development](#sec-environmental){.chip}
 [<i class="bi bi-database"></i> Data](#sec-data){.chip}
 [<i class="bi bi-building"></i> Research centers](#sec-centers){.chip}
-[<i class="bi bi-tree"></i> Regenerative development](#sec-environmental){.chip}
 [<i class="bi bi-people"></i> Associations](#sec-associations){.chip}
 [<i class="bi bi-code-slash"></i> Methods](#sec-urban-econ){.chip}
 [<i class="bi bi-newspaper"></i> Reading](#sec-reading){.chip}
 [<i class="bi bi-easel"></i> Teaching](#sec-discussion){.chip}
+:::
+
+## Regenerative development & sustainability {#sec-environmental}
+
+A collection of resources about the environment, with a particular focus on the
+built environment, for students and researchers interested in regenerative
+solutions to city building, transportation, and other built-environment problems.
+
+::: {.link-grid}
+[[Intergovernmental Panel on Climate Change]{.lc-title} [The IPCC's assessment reports on the science of climate change.]{.lc-desc}](https://www.ipcc.ch){.link-card}
+[[*A Green New Deal* (2008)]{.lc-title} [New Economics Foundation's original Green New Deal report (archived).]{.lc-desc}](https://web.archive.org/web/20081010184615/http://www.neweconomics.org:80/gen/uploads/2ajogu45c1id4w55tofmpy5520072008172656.pdf){.link-card}
+[[Regenesis Group]{.lc-title} [Pioneers of regenerative development and design practice.]{.lc-desc}](https://regenesisgroup.com){.link-card}
+[[International Living Future Institute]{.lc-title} [Home of the Living Building Challenge.]{.lc-desc}](https://living-future.org){.link-card}
+[[U.S. Green Building Council]{.lc-title} [The LEED rating system and green-building education.]{.lc-desc}](https://www.usgbc.org){.link-card}
+[[Capital Institute]{.lc-title} [Regenerative economics and the principles of a regenerative economy.]{.lc-desc}](https://capitalinstitute.org){.link-card}
+[[Doughnut Economics Action Lab]{.lc-title} [Tools for cities applying Kate Raworth's doughnut framework.]{.lc-desc}](https://doughnuteconomics.org){.link-card}
+[[CityCraft Foundation]{.lc-title} [Regenerative city-building in West Denver and beyond.]{.lc-desc}](https://www.citycraftfoundation.org){.link-card}
+:::
+
+**Resiliency frameworks**
+
+::: {.link-grid}
+[[Resilient Cities Network]{.lc-title} [The successor network to the Rockefeller Foundation's 100 Resilient Cities.]{.lc-desc}](https://resilientcitiesnetwork.org){.link-card}
+[[UN SDGs — 2019 U.S. Cities Report]{.lc-title} [How the 100 largest U.S. metros perform on the Sustainable Development Goals.]{.lc-desc}](https://www.sustainabledevelopment.report/reports/2019-us-cities-sustainable-development-report/){.link-card}
+[[Colorado Resiliency Office]{.lc-title} [State resources for community resilience planning.]{.lc-desc}](https://coresiliency.colorado.gov/){.link-card}
 :::
 
 ## Data sources {#sec-data}
@@ -79,31 +103,6 @@ metro level.
 [[Urban Institute]{.lc-title} [Research on housing finance, neighborhoods, and urban policy.]{.lc-desc}](https://www.urban.org){.link-card}
 [[Urban Land Institute]{.lc-title} [Industry research, case studies, and *Emerging Trends in Real Estate*.]{.lc-desc}](https://www.uli.org){.link-card}
 [[ULI Centers & Initiatives]{.lc-title} [ULI's centers on housing, sustainability, and resilience.]{.lc-desc}](https://americas.uli.org/research/centers-initiatives/){.link-card}
-:::
-
-## Sustainability & regenerative development {#sec-environmental}
-
-A collection of resources about the environment, with a particular focus on the
-built environment, for students and researchers interested in regenerative
-solutions to city building, transportation, and other built-environment problems.
-
-::: {.link-grid}
-[[Intergovernmental Panel on Climate Change]{.lc-title} [The IPCC's assessment reports on the science of climate change.]{.lc-desc}](https://www.ipcc.ch){.link-card}
-[[*A Green New Deal* (2008)]{.lc-title} [New Economics Foundation's original Green New Deal report (archived).]{.lc-desc}](https://web.archive.org/web/20081010184615/http://www.neweconomics.org:80/gen/uploads/2ajogu45c1id4w55tofmpy5520072008172656.pdf){.link-card}
-[[Regenesis Group]{.lc-title} [Pioneers of regenerative development and design practice.]{.lc-desc}](https://regenesisgroup.com){.link-card}
-[[International Living Future Institute]{.lc-title} [Home of the Living Building Challenge.]{.lc-desc}](https://living-future.org){.link-card}
-[[U.S. Green Building Council]{.lc-title} [The LEED rating system and green-building education.]{.lc-desc}](https://www.usgbc.org){.link-card}
-[[Capital Institute]{.lc-title} [Regenerative economics and the principles of a regenerative economy.]{.lc-desc}](https://capitalinstitute.org){.link-card}
-[[Doughnut Economics Action Lab]{.lc-title} [Tools for cities applying Kate Raworth's doughnut framework.]{.lc-desc}](https://doughnuteconomics.org){.link-card}
-[[CityCraft Foundation]{.lc-title} [Regenerative city-building in West Denver and beyond.]{.lc-desc}](https://www.citycraftfoundation.org){.link-card}
-:::
-
-**Resiliency frameworks**
-
-::: {.link-grid}
-[[Resilient Cities Network]{.lc-title} [The successor network to the Rockefeller Foundation's 100 Resilient Cities.]{.lc-desc}](https://resilientcitiesnetwork.org){.link-card}
-[[UN SDGs — 2019 U.S. Cities Report]{.lc-title} [How the 100 largest U.S. metros perform on the Sustainable Development Goals.]{.lc-desc}](https://www.sustainabledevelopment.report/reports/2019-us-cities-sustainable-development-report/){.link-card}
-[[Colorado Resiliency Office]{.lc-title} [State resources for community resilience planning.]{.lc-desc}](https://coresiliency.colorado.gov/){.link-card}
 :::
 
 ## Professional & academic associations {#sec-associations}
