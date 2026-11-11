@@ -5,15 +5,14 @@ toc: false
 
 Photographs on this site come from [Wikimedia Commons](https://commons.wikimedia.org)
 and are used under the licenses listed below. Images were resized and, on some
-pages, cropped or shown behind a darkened overlay; no other changes were made. Maps and other images not listed here are my own.
+pages, cropped or shown behind a darkened overlay; no other changes were made. Maps, portraits, and other images not listed here are my own or copyright-free.
 
 | Used on | Photo | Author | License |
 |---|---|---|---|
 | Home hero; Contact banner | [Denver Downtown Aerial, December 2025](https://commons.wikimedia.org/wiki/File:Denver_Downtown_Aerial,_December_2025.jpg) | Spicypepper999 | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Home and Research cards; Publications and CV banners | [Denver Skyline at Blue Hour](https://commons.wikimedia.org/wiki/File:Denver_Skyline_at_Blue_Hour.jpg) | Brian Papantonio | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
-| Home and Research cards; Engagement and Resources images | [2007 community garden DenverCO 787214962](https://commons.wikimedia.org/wiki/File:2007_community_garden_DenverCO_787214962.jpg) | emerson12 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
+| Home and Research cards; Engagement image | [2007 community garden DenverCO 787214962](https://commons.wikimedia.org/wiki/File:2007_community_garden_DenverCO_787214962.jpg) | emerson12 | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Home and Research cards | [Ray Apartments (3814648202)](https://commons.wikimedia.org/wiki/File:Ray_Apartments_(3814648202).jpg) | Jeffrey Beall from Denver, Colorado, USA | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0) |
-| Research card | [Denver Union Station - June 2022 - Sarah Stierch 01](https://commons.wikimedia.org/wiki/File:Denver_Union_Station_-_June_2022_-_Sarah_Stierch_01.jpg) | Missvain | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
 | Teaching banner | [University of Denver campus pics 027](https://commons.wikimedia.org/wiki/File:University_of_Denver_campus_pics_027.jpg) | CW221 | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) |
 | Engagement banner | [Denver & Front Range (Colorado, USA) 10](https://commons.wikimedia.org/wiki/File:Denver_%26_Front_Range_(Colorado,_USA)_10.jpg) | James St. John | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |
 | Research banner; Home closing band | [Mount Evans and Denver skyline from City Park Golf Course](https://commons.wikimedia.org/wiki/File:Mount_Evans_and_Denver_skyline_from_City_Park_Golf_Course.jpg) | David Herrera from Albuquerque, NM, Bernalillo | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0) |

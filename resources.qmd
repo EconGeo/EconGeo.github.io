@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-title-block-banner: assets/img/banner-garden.jpg
+title-block-banner: assets/img/banner-fjord.jpg
 subtitle: "Data, research, and tools I share with students and collaborators."
 ---
 
@@ -19,6 +19,9 @@ census-tract or metro level.
 :::
 
 ## Regenerative development & sustainability {#sec-environmental}
+
+::: {.section-img style="background-image: url('assets/img/res-tree-moon.jpg'); background-position: center 60%;"}
+:::
 
 A collection of resources about the environment, with a particular focus on the
 built environment, for students and researchers interested in regenerative
@@ -94,6 +97,9 @@ solutions to city building, transportation, and other built-environment problems
 
 ## Research centers & think tanks {#sec-centers}
 
+::: {.section-img style="background-image: url('assets/img/res-nyc.jpg'); background-position: center;"}
+:::
+
 ::: {.link-grid}
 [[Harvard Joint Center for Housing Studies]{.lc-title} [*The State of the Nation's Housing* and research on rental markets and affordability.]{.lc-desc}](https://www.jchs.harvard.edu){.link-card}
 [[Lincoln Institute of Land Policy]{.lc-title} [Land value, property taxation, and land-use policy research.]{.lc-desc}](https://www.lincolninst.edu){.link-card}
@@ -116,6 +122,9 @@ solutions to city building, transportation, and other built-environment problems
 
 ## Methods & open textbooks {#sec-urban-econ}
 
+::: {.section-img style="background-image: url('assets/img/res-street.jpg'); background-position: center 55%;"}
+:::
+
 ::: {.link-grid}
 [[Regional Research Institute (WVU)]{.lc-title} [Regional economics web books, articles, and more.]{.lc-desc}](https://researchrepository.wvu.edu/rri/){.link-card}
 [[*Causal Inference: The Mixtape*]{.lc-title} [Scott Cunningham's free textbook on applied causal inference.]{.lc-desc}](https://mixtape.scunning.com){.link-card}
@@ -134,6 +143,9 @@ solutions to city building, transportation, and other built-environment problems
 :::
 
 ## Discussion-based teaching {#sec-discussion}
+
+::: {.section-img style="background-image: url('assets/img/res-discussion.jpg'); background-position: center 45%;"}
+:::
 
 I use discussion in my topics class, *Triple Bottom Line and the Built
 Environment*, to encourage students to engage deeply with material on social
@@ -155,6 +167,9 @@ opinion that emerges when viewpoints are exchanged openly and honestly, and
 > Tools and Techniques for Democratic Classrooms.* John Wiley & Sons.
 
 ## Technology in the classroom {#sec-technology}
+
+::: {.section-img style="background-image: url('assets/img/res-technology.jpg'); background-position: center;"}
+:::
 
 I like to use technology in the classroom to give students the opportunity to
 share their work with the world. A few tools I point them to:

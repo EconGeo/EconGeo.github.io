@@ -5,6 +5,10 @@ subtitle: "Burns School of Real Estate and Construction Management, University o
 toc: false
 ---
 
+::: {.feature}
+::: {.feature-img .contact-photo style="background-image: url('assets/img/portrait.jpg');"}
+:::
+::: {}
 The best way to reach me is by email. Click below and your mail client will open
 with my address filled in.
 
@@ -31,3 +35,6 @@ You can also find me here:
 Franklin L. Burns School of Real Estate and Construction Management\
 Daniels College of Business, University of Denver\
 2101 S. University Blvd., Suite 380, Denver, CO 80208
+
+:::
+:::

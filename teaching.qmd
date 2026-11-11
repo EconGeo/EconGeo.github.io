@@ -4,11 +4,17 @@ subtitle: "Social justice and environmental sustainability in the built environm
 title-block-banner: assets/img/banner-campus.jpg
 ---
 
+::: {.feature}
+::: {.feature-img style="background-image: url('assets/img/teach-lightbulb.jpg');"}
+:::
+::: {}
 I teach real estate and built-environment courses at the University of Denver,
 with an emphasis on **social justice and environmental sustainability in the
 built environment**. My classes lean on discussion-based learning to help
 students engage deeply with the material, and I use classroom technology to give
 students the chance to share their work with the world.
+:::
+:::
 
 ## Courses {#sec-courses}
 
@@ -57,6 +63,9 @@ Methods for analyzing real estate markets, demand, and submarket dynamics.
 :::
 
 ## Student projects {#sec-student-projects}
+
+::: {.section-img style="background-image: url('assets/img/teach-sunset.jpg'); background-position: center 60%;"}
+:::
 
 In **Triple Bottom Line and the Built Environment**, students build public
 websites around their work:

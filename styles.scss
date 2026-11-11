@@ -515,3 +515,15 @@ a.link-card:hover { border-left-color: $accent !important; transform: translateY
 @media (max-width: 479.98px) { .link-grid { grid-template-columns: 1fr; } }
 // Pandoc wraps a run of links in one <p>; let the links themselves be the grid items
 .link-grid > p, .project-grid > p { display: contents; }
+
+// Wide photo strip under a section heading
+.section-img {
+  height: 220px;
+  border-radius: $card-radius;
+  background-size: cover;
+  background-position: center;
+  box-shadow: $shadow-sm;
+  margin: 0.4rem 0 1.2rem;
+}
+@media (max-width: 575.98px) { .section-img { height: 150px; } }
+.contact-photo { min-height: 340px; background-position: center 25%; }

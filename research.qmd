@@ -85,7 +85,7 @@ and Walking* (2019) and *Spatial Models of Travel Behavior and Land Use Restrict
 :::
 
 ::: {.paper-card}
-::: {.paper-img style="background-image: url('assets/img/theme-urban.jpg');"}
+::: {.paper-img style="background-image: url('assets/img/res-nyc.jpg');"}
 :::
 ::: {.paper-body}
 [Capital markets]{.tag} [International]{.tag}
