@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-afe089b272eef4ef8bd81dc0bfa62de6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -187,7 +190,8 @@ background-size: cover;
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#sec-working-papers" id="toc-sec-working-papers" class="nav-link active" data-scroll-target="#sec-working-papers">Working papers</a></li>
+  <li><a href="#sec-figures" id="toc-sec-figures" class="nav-link active" data-scroll-target="#sec-figures">From my research</a></li>
+  <li><a href="#sec-working-papers" id="toc-sec-working-papers" class="nav-link" data-scroll-target="#sec-working-papers">Working papers</a></li>
   </ul>
 </nav>
     </div>
@@ -203,6 +207,30 @@ background-size: cover;
 <p><a href="./publications.html" class="chip"><i class="bi bi-graph-up-arrow"></i> Market cycles &amp; investment</a> <a href="#paper-regenerative" class="chip"><i class="bi bi-tree"></i> Regenerative development</a> <a href="#paper-reit-esg" class="chip"><i class="bi bi-bar-chart-line"></i> ESG in real estate</a> <a href="#paper-affordability" class="chip"><i class="bi bi-house-heart"></i> Housing affordability</a> <a href="#paper-capital-flows" class="chip"><i class="bi bi-globe-americas"></i> Global capital flows</a></p>
 </div>
 <p>For published, peer-reviewed work, see <a href="./publications.html">Publications</a>. Current working papers are listed below; drafts are available on request.</p>
+<section id="sec-figures" class="level2">
+<h2 class="anchored" data-anchor-id="sec-figures">From my research</h2>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/img/research-denver-zoning.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Denver zoning categories — residential, business, and industrial — from my research on zoning, the built environment, and travel behavior."><img src="assets/img/research-denver-zoning.png" class="img-fluid figure-img" alt="Map of the City and County of Denver colored by zoning category: low, medium and high density residential, low and high density business, and industrial."></a></p>
+<figcaption>Denver zoning categories — residential, business, and industrial — from my research on zoning, the built environment, and travel behavior.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="assets/img/research-distance-bands.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Distance bands (0–0.25, 0.25–0.5 and 0.5–1 mile) drawn around survey respondents’ homes to measure the built environment near where people live."><img src="assets/img/research-distance-bands.jpg" class="img-fluid figure-img" alt="Map of overlapping colored circles around survey respondents' residences, labelled with 0 to 0.25, 0.25 to 0.5 and 0.5 to 1 mile distance bands."></a></p>
+<figcaption>Distance bands (0–0.25, 0.25–0.5 and 0.5–1 mile) drawn around survey respondents’ homes to measure the built environment near where people live.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p>See <em>The Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking</em> (2019) and <em>Spatial Models of Travel Behavior and Land Use Restriction</em> (2023) on the <a href="./publications.html">Publications</a> page.</p>
+</section>
 <section id="sec-working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="sec-working-papers">Working papers</h2>
 <div class="paper-card">
@@ -704,6 +732,38 @@ background-size: cover;
   });
 })();
 </script>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

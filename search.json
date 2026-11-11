@@ -67,7 +67,7 @@
     "href": "photo-credits.html",
     "title": "Photo credits",
     "section": "",
-    "text": "Photographs on this site come from Wikimedia Commons and are used under the licenses listed below. Images were resized and, on some pages, cropped or shown behind a darkened overlay; no other changes were made.\n\n\n\nUsed on\nPhoto\nAuthor\nLicense\n\n\n\n\nHome hero; Contact banner\nDenver Downtown Aerial, December 2025\nSpicypepper999\nCC0\n\n\nHome and Research cards; Publications and CV banners\nDenver Skyline at Blue Hour\nBrian Papantonio\nCC BY 2.0\n\n\nHome and Research cards; Engagement and Resources images\n2007 community garden DenverCO 787214962\nemerson12\nCC BY 2.0\n\n\nHome and Research cards\nRay Apartments (3814648202)\nJeffrey Beall from Denver, Colorado, USA\nCC BY-SA 2.0\n\n\nResearch card; Engagement\nDenver Union Station - June 2022 - Sarah Stierch 01\nMissvain\nCC BY 4.0\n\n\nTeaching banner\nUniversity of Denver campus pics 027\nCW221\nCC BY-SA 3.0\n\n\nEngagement banner\nDenver & Front Range (Colorado, USA) 10\nJames St. John\nCC BY 2.0\n\n\nResearch banner; Home closing band\nMount Evans and Denver skyline from City Park Golf Course\nDavid Herrera from Albuquerque, NM, Bernalillo\nCC BY 2.0\n\n\nHome card\nDenver Light Rail (23929768471)\nPaul Sableman\nCC BY 2.0"
+    "text": "Photographs on this site come from Wikimedia Commons and are used under the licenses listed below. Images were resized and, on some pages, cropped or shown behind a darkened overlay; no other changes were made. Maps and other images not listed here are my own.\n\n\n\nUsed on\nPhoto\nAuthor\nLicense\n\n\n\n\nHome hero; Contact banner\nDenver Downtown Aerial, December 2025\nSpicypepper999\nCC0\n\n\nHome and Research cards; Publications and CV banners\nDenver Skyline at Blue Hour\nBrian Papantonio\nCC BY 2.0\n\n\nHome and Research cards; Engagement and Resources images\n2007 community garden DenverCO 787214962\nemerson12\nCC BY 2.0\n\n\nHome and Research cards\nRay Apartments (3814648202)\nJeffrey Beall from Denver, Colorado, USA\nCC BY-SA 2.0\n\n\nResearch card\nDenver Union Station - June 2022 - Sarah Stierch 01\nMissvain\nCC BY 4.0\n\n\nTeaching banner\nUniversity of Denver campus pics 027\nCW221\nCC BY-SA 3.0\n\n\nEngagement banner\nDenver & Front Range (Colorado, USA) 10\nJames St. John\nCC BY 2.0\n\n\nResearch banner; Home closing band\nMount Evans and Denver skyline from City Park Golf Course\nDavid Herrera from Albuquerque, NM, Bernalillo\nCC BY 2.0"
   },
   {
     "objectID": "index.html",
@@ -126,6 +126,13 @@
     "text": "My research applies the tools of applied microeconomics to questions in real estate finance, sustainability, and urban economics. A recurring theme is how the built environment can move toward regenerative development — projects and policies that restore environmental and social systems rather than merely reducing harm. Related strands of my work examine real estate market cycles and investment strategy, the economics of housing affordability, environmental and social (ESG) performance in real estate, and the links between zoning, urban form, and travel behavior.\nFor published, peer-reviewed work, see Publications. Current working papers are listed below; drafts are available on request."
   },
   {
+    "objectID": "research.html#sec-figures",
+    "href": "research.html#sec-figures",
+    "title": "Research",
+    "section": "From my research",
+    "text": "From my research\n\n\n\n\n\n\nDenver zoning categories — residential, business, and industrial — from my research on zoning, the built environment, and travel behavior.\n\n\n\n\n\n\n\nDistance bands (0–0.25, 0.25–0.5 and 0.5–1 mile) drawn around survey respondents’ homes to measure the built environment near where people live.\n\n\n\n\n\nSee The Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking (2019) and Spatial Models of Travel Behavior and Land Use Restriction (2023) on the Publications page."
+  },
+  {
     "objectID": "research.html#sec-working-papers",
     "href": "research.html#sec-working-papers",
     "title": "Research",
@@ -165,14 +172,14 @@
     "href": "engagement.html#sec-news",
     "title": "Engagement",
     "section": "In the news",
-    "text": "In the news\n\nDaniels College of Business · 2024 Featured Researcher: Andrew Mueller A Q&A on zoning, walkability, regenerative development, and work with the Denver Housing Authority in Sun Valley. Daniels College of Business · 2020 Developing Denver How Burns School students use regenerative development to help revitalize Sun Valley. Colorado Springs Business Journal · 2018 A how-to: Urban renewal done right Interview on what makes urban renewal work: community engagement, sustainability-minded planning, and keeping a neighborhood’s identity. Republished by Daniels."
+    "text": "In the news\n\nDaniels College of Business · 2024 Featured Researcher: Andrew Mueller A Q&A on zoning, walkability, regenerative development, and work with the Denver Housing Authority in Sun Valley. Daniels College of Business · 2020 Developing Denver How Burns School students use regenerative development to help revitalize Sun Valley. Colorado Springs Business Journal · 2018 A how-to: Urban renewal done right Interview on what makes urban renewal work: community engagement, sustainability-minded planning, and keeping a neighborhood’s identity. Republished by Daniels.\n\n\n\n\n\n\nDU · Public good\n\nCommunity-engaged scholarship\nThe University of Denver is a private university committed to the public good. I work with community partners on collaborative research and engaged-learning projects, and I point students and collaborators toward:\n\n\n\n\n DU Center for Community Engagement to advance Scholarship and Learning (CCESL)  DU Scholar Shop — community partners seeking DU faculty and students  Metro Denver Nature Alliance — equitable access to nature"
   },
   {
     "objectID": "engagement.html#sec-community",
     "href": "engagement.html#sec-community",
     "title": "Engagement",
     "section": "Community-engaged scholarship",
-    "text": "Community-engaged scholarship\nThe University of Denver is a private university committed to the public good. I work with community partners on collaborative research and engaged-learning projects, and I point students and collaborators toward:\n\n DU Center for Community Engagement to advance Scholarship and Learning (CCESL)  DU Scholar Shop — community partners seeking DU faculty and students  Metro Denver Nature Alliance — equitable access to nature"
+    "text": "Community-engaged scholarship\nThe University of Denver is a private university committed to the public good. I work with community partners on collaborative research and engaged-learning projects, and I point students and collaborators toward:"
   },
   {
     "objectID": "publications.html",
