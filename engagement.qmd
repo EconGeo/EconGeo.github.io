@@ -66,6 +66,22 @@ the Built Environment, and Regis University's Business School.
 :::
 :::
 
+## Projects I've worked on {#sec-projects}
+
+::: {.link-grid}
+[[Regenerative development · Denver]{.lc-meta} [CityCraft]{.lc-title} [Regenerative city-building for West Denver neighborhoods.]{.lc-desc}](https://citycraft.org){.link-card}
+[[Affordable housing · Sun Valley]{.lc-meta} [Sun Valley EcoDistrict]{.lc-title} [Denver Housing Authority's redevelopment of the Sun Valley neighborhood, planned under the EcoDistricts Protocol.]{.lc-desc}](https://www.denverhousing.org/sun-valley-redevelopment/){.link-card}
+[[Master plan]{.lc-meta} [Sun Valley EcoDistrict plan — national recognition]{.lc-title} [Mithun on the award-winning master plan for the EcoDistrict.]{.lc-desc}](https://mithun.com/2017/03/21/national-recognition-for-denvers-sun-valley/){.link-card}
+[[Impact investing]{.lc-meta} [CityCraft Ventures]{.lc-title} [The CityCraft initiative behind the Community Integrated Research Center.]{.lc-desc}](https://www.citycraftventures.com){.link-card}
+:::
+
+## In the news {#sec-news}
+
+::: {.link-grid}
+[[Daniels College of Business · 2024]{.lc-meta} [Featured Researcher: Andrew Mueller]{.lc-title} [A Q&A on zoning, walkability, regenerative development, and work with the Denver Housing Authority in Sun Valley.]{.lc-desc}](https://daniels.du.edu/blog/featured-researcher-andrew-mueller/){.link-card}
+[[Daniels College of Business · 2020]{.lc-meta} [Developing Denver]{.lc-title} [How Burns School students use regenerative development to help revitalize Sun Valley.]{.lc-desc}](https://daniels.du.edu/blog/developing-denver/){.link-card}
+:::
+
 ## Community-engaged scholarship {#sec-community}
 
 The University of Denver is a private university committed to the public good. I

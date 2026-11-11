@@ -495,3 +495,20 @@ a.project-link .bi { color: $accent; font-size: 1.1rem; }
 // Keep wide tables (e.g. photo credits) from pushing the page sideways on phones
 main table td { overflow-wrap: anywhere; }
 @media (max-width: 575.98px) { main table { display: block; overflow-x: auto; font-size: 0.85rem; } }
+
+// ===== Link cards (Resources, Engagement) =====
+.link-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 0.8rem; margin: 0.8rem 0 1.6rem; }
+a.link-card {
+  display: flex; flex-direction: column; gap: 0.25rem;
+  padding: 0.9rem 1.05rem;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid $gray-200 !important;
+  border-left: 3px solid $accent-soft !important;
+  box-shadow: $shadow-sm;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+a.link-card:hover { border-left-color: $accent !important; transform: translateY(-2px); box-shadow: $shadow-lg; }
+.link-card .lc-title { font-weight: 600; color: $primary; line-height: 1.3; }
+.link-card .lc-desc { font-size: 0.86rem; color: $text-muted; line-height: 1.45; }
+.link-card .lc-meta { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: darken($accent, 12%); }
