@@ -5,7 +5,7 @@ title-block-banner: assets/img/banner-park.jpg
 lightbox: true
 ---
 
-My research applies the tools of applied microeconomics to questions in **real
+My research uses the tools of applied microeconomics to questions in **real
 estate finance, sustainability, and urban economics**. A recurring theme is how
 the built environment can move toward **regenerative development** — projects and
 policies that restore environmental and social systems rather than merely
@@ -24,18 +24,6 @@ form, and travel behavior.
 
 For published, peer-reviewed work, see [Publications](publications.qmd). Current
 working papers are listed below; drafts are available on request.
-
-## From my research {#sec-figures}
-
-::: {layout-ncol=2}
-![Denver zoning categories — residential, business, and industrial — from my research on zoning, the built environment, and travel behavior.](assets/img/research-denver-zoning.png){fig-alt="Map of the City and County of Denver colored by zoning category: low, medium and high density residential, low and high density business, and industrial."}
-
-![Distance bands (0–0.25, 0.25–0.5 and 0.5–1 mile) drawn around survey respondents' homes to measure the built environment near where people live.](assets/img/research-distance-bands.jpg){fig-alt="Map of overlapping colored circles around survey respondents' residences, labelled with 0 to 0.25, 0.25 to 0.5 and 0.5 to 1 mile distance bands."}
-:::
-
-See *The Impact of Zoning and Built Environment Characteristics on Transit, Biking,
-and Walking* (2019) and *Spatial Models of Travel Behavior and Land Use Restriction*
-(2023) on the [Publications](publications.qmd) page.
 
 ## Working papers {#sec-working-papers}
 

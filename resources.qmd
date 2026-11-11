@@ -89,6 +89,9 @@ solutions to city building, transportation, and other built-environment problems
 
 ### Spatial, urban & transportation
 
+::: {.section-img role="img" aria-label="Map of distance bands of 0 to 0.25, 0.25 to 0.5 and 0.5 to 1 mile drawn around survey respondents' homes, from my research on the built environment and travel behavior." style="background-image: url('assets/img/research-distance-bands.jpg'); background-position: center;"}
+:::
+
 ::: {.link-grid}
 [[IPUMS]{.lc-title} [Harmonized census and survey microdata (USA, CPS, international).]{.lc-desc}](https://www.ipums.org){.link-card}
 [[NHGIS]{.lc-title} [Historical census tables and GIS boundary files from 1790 to the present.]{.lc-desc}](https://www.nhgis.org){.link-card}
@@ -109,6 +112,9 @@ solutions to city building, transportation, and other built-environment problems
 :::
 
 ### Denver & Colorado
+
+::: {.section-img role="img" aria-label="Map of the City and County of Denver colored by zoning category, from my research on zoning and travel behavior." style="background-image: url('assets/img/research-denver-zoning.png'); background-size: 280%; background-position: 18% 60%;"}
+:::
 
 ::: {.link-grid}
 [[Denver Open Data Catalog]{.lc-title} [City and County of Denver datasets: parcels, zoning, permits, and more.]{.lc-desc}](https://opendata-geospatialdenver.hub.arcgis.com/){.link-card}
