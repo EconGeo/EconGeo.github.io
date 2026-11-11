@@ -80,6 +80,7 @@ the Built Environment, and Regis University's Business School.
 ::: {.link-grid}
 [[Daniels College of Business · 2024]{.lc-meta} [Featured Researcher: Andrew Mueller]{.lc-title} [A Q&A on zoning, walkability, regenerative development, and work with the Denver Housing Authority in Sun Valley.]{.lc-desc}](https://daniels.du.edu/blog/featured-researcher-andrew-mueller/){.link-card}
 [[Daniels College of Business · 2020]{.lc-meta} [Developing Denver]{.lc-title} [How Burns School students use regenerative development to help revitalize Sun Valley.]{.lc-desc}](https://daniels.du.edu/blog/developing-denver/){.link-card}
+[[Colorado Springs Business Journal · 2018]{.lc-meta} [A how-to: Urban renewal done right]{.lc-title} [Interview on what makes urban renewal work: community engagement, sustainability-minded planning, and keeping a neighborhood's identity. Republished by Daniels.]{.lc-desc}](https://daniels.du.edu/blog/a-how-to-urban-renewal-done-right/){.link-card}
 :::
 
 ## Community-engaged scholarship {#sec-community}

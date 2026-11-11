@@ -497,7 +497,7 @@ main table td { overflow-wrap: anywhere; }
 @media (max-width: 575.98px) { main table { display: block; overflow-x: auto; font-size: 0.85rem; } }
 
 // ===== Link cards (Resources, Engagement) =====
-.link-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 0.8rem; margin: 0.8rem 0 1.6rem; }
+.link-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.8rem; margin: 0.8rem 0 1.6rem; }
 a.link-card {
   display: flex; flex-direction: column; gap: 0.25rem;
   padding: 0.9rem 1.05rem;
@@ -512,3 +512,6 @@ a.link-card:hover { border-left-color: $accent !important; transform: translateY
 .link-card .lc-title { font-weight: 600; color: $primary; line-height: 1.3; }
 .link-card .lc-desc { font-size: 0.86rem; color: $text-muted; line-height: 1.45; }
 .link-card .lc-meta { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: darken($accent, 12%); }
+@media (max-width: 479.98px) { .link-grid { grid-template-columns: 1fr; } }
+// Pandoc wraps a run of links in one <p>; let the links themselves be the grid items
+.link-grid > p, .project-grid > p { display: contents; }
