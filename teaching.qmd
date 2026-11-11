@@ -1,5 +1,7 @@
 ---
 title: "Teaching"
+subtitle: "Social justice and environmental sustainability in the built environment."
+title-block-banner: assets/img/banner-campus.jpg
 ---
 
 I teach real estate and built-environment courses at the University of Denver,
@@ -10,57 +12,93 @@ students the chance to share their work with the world.
 
 ## Courses {#sec-courses}
 
-### REAL 1700 / 4000 — Triple Bottom Line and the Built Environment
+::: {.course-grid}
+::: {.course-card}
+[<i class="bi bi-recycle"></i>]{.course-icon}
+
+[REAL 1700 / 4000]{.course-code}
+
+### Triple Bottom Line and the Built Environment
 
 A topics course (formerly *Business of the Built Environment*) examining the
 environmental, social, and economic dimensions of real estate and city building.
+:::
 
-### REAL 3307 / 4407 — Real Estate Finance / Income Property Finance
+::: {.course-card}
+[<i class="bi bi-cash-coin"></i>]{.course-icon}
+
+[REAL 3307 / 4407]{.course-code}
+
+### Real Estate Finance / Income Property Finance
 
 Finance and investment analysis for income-producing real estate.
+:::
 
-### REAL 4800 — NAIOP Rocky Mountain Real Estate Challenge
+::: {.course-card}
+[<i class="bi bi-trophy"></i>]{.course-icon}
+
+[REAL 4800]{.course-code}
+
+### NAIOP Rocky Mountain Real Estate Challenge
 
 A capstone, competition-based course in which student teams develop a real
 proposal for the regional NAIOP Real Estate Challenge.
+:::
 
-### REAL 4701 — Real Estate Market Analysis
+::: {.course-card}
+[<i class="bi bi-bar-chart-line"></i>]{.course-icon}
+
+[REAL 4701]{.course-code}
+
+### Real Estate Market Analysis
 
 Methods for analyzing real estate markets, demand, and submarket dynamics.
-
----
+:::
+:::
 
 ## Student projects {#sec-student-projects}
 
 In **Triple Bottom Line and the Built Environment**, students build public
 websites around their work:
 
-- **Graduate (REAL 4000).** Students choose a critical issue related to the built
-  environment, outline the primary challenges, discuss how the issue affects the
-  City of Denver, and propose a plan of action for Denver to address it.
-- **Undergraduate (REAL 1700).** Students identify a parcel of land in the Denver
-  metro region and propose a redevelopment — a regenerative feasibility study
-  covering stakeholder engagement, a theoretical LEED rating, and the financing of
-  green enhancements.
+::: {.split-cards}
+::: {}
+[Graduate · REAL 4000]{.tag}
+
+Students choose a critical issue related to the built environment, outline the
+primary challenges, discuss how the issue affects the City of Denver, and propose
+a plan of action for Denver to address it.
+:::
+
+::: {}
+[Undergraduate · REAL 1700]{.tag}
+
+Students identify a parcel of land in the Denver metro region and propose a
+redevelopment — a regenerative feasibility study covering stakeholder
+engagement, a theoretical LEED rating, and the financing of green enhancements.
+:::
+:::
 
 ### Fall 2020 — graduate class
 
-- [Englewood Regeneration Project](https://englewoodregeneration.squarespace.com/)
-- [Biophilic Design](https://shreyabpatel.wixsite.com/biophilicdesign)
-- [Sustainable Solutions: Green Technology](https://coleboland8.wixsite.com/busbuiltenvro)
-- [Low-Income Community Regeneration](https://guanyungao.wixsite.com/website)
-- [Opportunity Zones USA](https://opportunityzonesusa.wordpress.com/)
-- [Urbanization in Denver: The Impact of Urbanization on Denver's Walkability](https://abbysimpson8.wixsite.com/denverwalkability)
+::: {.project-grid}
+[<i class="bi bi-buildings"></i> Englewood Regeneration Project](https://englewoodregeneration.squarespace.com/){.project-link}
+[<i class="bi bi-flower1"></i> Biophilic Design](https://shreyabpatel.wixsite.com/biophilicdesign){.project-link}
+[<i class="bi bi-lightning-charge"></i> Sustainable Solutions: Green Technology](https://coleboland8.wixsite.com/busbuiltenvro){.project-link}
+[<i class="bi bi-people"></i> Low-Income Community Regeneration](https://guanyungao.wixsite.com/website){.project-link}
+[<i class="bi bi-geo-alt"></i> Opportunity Zones USA](https://opportunityzonesusa.wordpress.com/){.project-link}
+[<i class="bi bi-person-walking"></i> Urbanization in Denver: The Impact of Urbanization on Denver's Walkability](https://abbysimpson8.wixsite.com/denverwalkability){.project-link}
+:::
 
 ### Fall 2019 — graduate class
 
-- [Rural Depopulation: Craig, CO Revitalization](https://ruraldepopulation.wixsite.com/craig)
-- [ReGen Den: Adaptive Redevelopment vs. Rebuild](http://www.harlanchumley.wordpress.com/)
-- [The Rise of Sun Valley: Neighborhood Revitalization](https://www.theriseofsunvalley.com)
-- [YAVI Future: Sustainability via Adaptive Architecture](https://yavifuture.weebly.com)
-- [Water Wait](https://frezzajohn.wixsite.com/waterwait)
-
----
+::: {.project-grid}
+[<i class="bi bi-house-up"></i> Rural Depopulation: Craig, CO Revitalization](https://ruraldepopulation.wixsite.com/craig){.project-link}
+[<i class="bi bi-arrow-repeat"></i> ReGen Den: Adaptive Redevelopment vs. Rebuild](http://www.harlanchumley.wordpress.com/){.project-link}
+[<i class="bi bi-sun"></i> The Rise of Sun Valley: Neighborhood Revitalization](https://www.theriseofsunvalley.com){.project-link}
+[<i class="bi bi-bricks"></i> YAVI Future: Sustainability via Adaptive Architecture](https://yavifuture.weebly.com){.project-link}
+[<i class="bi bi-droplet"></i> Water Wait](https://frezzajohn.wixsite.com/waterwait){.project-link}
+:::
 
 For my community-engaged and regenerative work, see [Engagement](engagement.qmd).
 For discussion-based teaching and classroom-technology resources, see

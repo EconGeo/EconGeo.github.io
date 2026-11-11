@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+title-block-banner: assets/img/hero-denver.jpg
+subtitle: "Burns School of Real Estate and Construction Management, University of Denver."
 toc: false
 ---
 

@@ -1,58 +1,264 @@
 ---
 title: "Publications"
+subtitle: "Peer-reviewed journal articles, most recent first."
+title-block-banner: assets/img/banner-skyline.jpg
+toc: false
 ---
 
-Peer-reviewed journal articles, most recent first. A complete and current list —
-including conference presentations, funded research, and professional
-publications — is available on my [CV](cv.qmd) and
+A complete and current list — including conference presentations, funded
+research, and professional publications — is available on my [CV](cv.qmd) and
 [Google Scholar profile](https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en).
+
+::: {.pub-summary}
+::: {}
+[15]{.stat-num}
+
+[Refereed articles]{.stat-label}
+:::
+::: {}
+[8]{.stat-num}
+
+[Journals]{.stat-label}
+:::
+::: {}
+[2003–2024]{.stat-num}
+
+[Publishing span]{.stat-label}
+:::
+:::
 
 ## Refereed journal articles {#sec-pubs}
 
-### 2024
+::: {.pub-year}
+::: {.yr}
+2024
+:::
 
-- Mueller, G. R., & Mueller, A. G. (2024). Investable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles. *Journal of Real Estate Portfolio Management.* [https://doi.org/10.1080/10835547.2023.2247172](https://doi.org/10.1080/10835547.2023.2247172)
+::: {}
 
-### 2023
+::: {.pub}
+[Investable Real Estate Allocations in a Mixed-Asset Portfolio: Both Long Term and During Different Cycles]{.pub-title}
 
-- Mueller, A. G., & Weiler, S. (2023). Spatial Models of Travel Behavior and Land Use Restriction. *Journal of Sustainable Real Estate* 15(1), 1–17.
+[Mueller, G. R., & Mueller, A. G.]{.pub-authors}
 
-### 2022
+[*Journal of Real Estate Portfolio Management*]{.pub-venue}
 
-- Mueller, A. G., Terschan, L., & PlaHovinsak, T. J. (2022). Filtering to Affordable: Does Multifamily Housing Become More Affordable as it Ages? *Journal of Real Estate Research* 44(2), 254–286.
+[DOI <i class="bi bi-box-arrow-up-right"></i>](https://doi.org/10.1080/10835547.2023.2247172){.btn .btn-outline-primary .btn-sm}
+:::
 
-### 2020
+:::
+:::
 
-- Mueller, A. G., & Sanderford, A. (2020). A Summary of Recent Urban Form Literature and Discussion of the Implications for Real Estate Developers and Investors. *Journal of Real Estate Literature* 28(1), 50–68.
-- Bartelt, V., Urbaczewski, A., Mueller, A. G., & Sarker, S. (2020). Enabling Collaboration and Innovation in Denver's Smart City through a Living Lab: A Social Capital Perspective. *European Journal of Information Systems* 29(4), 369–387.
+::: {.pub-year}
+::: {.yr}
+2023
+:::
 
-### 2019
+::: {}
 
-- Mueller, A. G., & Trujillo, D. J. (2019). The Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking. *Journal of Sustainable Real Estate* 11(1), 108–129.
+::: {.pub}
+[Spatial Models of Travel Behavior and Land Use Restriction]{.pub-title}
 
-### 2017
+[Mueller, A. G., & Weiler, S.]{.pub-authors}
 
-- Laposa, S., & Mueller, A. G. (2017). The Great Recession and Real Estate Cycles: Challenges, Opportunities, and Lessons Learned. *Journal of Property Investment & Finance* 35(3), 321–340.
-- Guirguis, H., Mueller, G. R., Harris, J., & Mueller, A. G. (2017). Did Increased Large Bank Concentration of US Mortgage Loan Originations Explain Rising Originator Profits? *International Real Estate Review* 20(3), 325–348.
+[*Journal of Sustainable Real Estate* 15(1), 1–17]{.pub-venue}
+:::
 
-### 2016
+:::
+:::
 
-- Evans, R. D., & Mueller, A. G. (2016). Forecasting Real Estate Cycle Risks in Portfolios of Office Properties Across Cities. *Journal of Real Estate Portfolio Management* 22(2), 199–215. *(2016 American Real Estate Society Manuscript Prize, Best Office Buildings/Office Parks paper.)*
-- Mueller, G. R., & Mueller, A. G. (2016). Real Estate Market Cycle Lengths and Magnitudes. *Real Estate Review* 45(3).
-- Evans, R. D., & Mueller, A. G. (2016). Industrial Real Estate Cycles: Markov Chain Applications. *Journal of Real Estate Portfolio Management* 22(1), 75–90.
+::: {.pub-year}
+::: {.yr}
+2022
+:::
 
-### 2010
+::: {}
 
-- Laposa, S., & Mueller, A. G. (2010). Wind Farm Announcements and Rural Home Prices: Maxwell Ranch and Rural Northern Colorado. *Journal of Sustainable Real Estate* 2(1), 383–402.
+::: {.pub}
+[Filtering to Affordable: Does Multifamily Housing Become More Affordable as it Ages?]{.pub-title}
 
-### 2008
+[Mueller, A. G., Terschan, L., & PlaHovinsak, T. J.]{.pub-authors}
 
-- Mueller, G. R., Boney, V., & Mueller, A. G. (2008). International Real Estate Volatility: A Tactical Investment Strategy. *Journal of Real Estate Portfolio Management* 14(4), 415–423.
+[*Journal of Real Estate Research* 44(2), 254–286]{.pub-venue}
+:::
 
-### 2007
+:::
+:::
 
-- Mueller, G. R., & Mueller, A. G. (2007). Warehouse Demand and the Path of Goods Movement. *Journal of Real Estate Portfolio Management* 13(1), 45–55.
+::: {.pub-year}
+::: {.yr}
+2020
+:::
 
-### 2003
+::: {}
 
-- Mueller, A. G., & Mueller, G. R. (2003). Public and Private Real Estate in a Mixed-Asset Portfolio. *Journal of Real Estate Portfolio Management* 9(3), 193–203.
+::: {.pub}
+[A Summary of Recent Urban Form Literature and Discussion of the Implications for Real Estate Developers and Investors]{.pub-title}
+
+[Mueller, A. G., & Sanderford, A.]{.pub-authors}
+
+[*Journal of Real Estate Literature* 28(1), 50–68]{.pub-venue}
+:::
+
+::: {.pub}
+[Enabling Collaboration and Innovation in Denver's Smart City through a Living Lab: A Social Capital Perspective]{.pub-title}
+
+[Bartelt, V., Urbaczewski, A., Mueller, A. G., & Sarker, S.]{.pub-authors}
+
+[*European Journal of Information Systems* 29(4), 369–387]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2019
+:::
+
+::: {}
+
+::: {.pub}
+[The Impact of Zoning and Built Environment Characteristics on Transit, Biking, and Walking]{.pub-title}
+
+[Mueller, A. G., & Trujillo, D. J.]{.pub-authors}
+
+[*Journal of Sustainable Real Estate* 11(1), 108–129]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2017
+:::
+
+::: {}
+
+::: {.pub}
+[The Great Recession and Real Estate Cycles: Challenges, Opportunities, and Lessons Learned]{.pub-title}
+
+[Laposa, S., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Property Investment & Finance* 35(3), 321–340]{.pub-venue}
+:::
+
+::: {.pub}
+[Did Increased Large Bank Concentration of US Mortgage Loan Originations Explain Rising Originator Profits?]{.pub-title}
+
+[Guirguis, H., Mueller, G. R., Harris, J., & Mueller, A. G.]{.pub-authors}
+
+[*International Real Estate Review* 20(3), 325–348]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2016
+:::
+
+::: {}
+
+::: {.pub}
+[Forecasting Real Estate Cycle Risks in Portfolios of Office Properties Across Cities]{.pub-title}
+
+[Evans, R. D., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Real Estate Portfolio Management* 22(2), 199–215]{.pub-venue}
+
+[<i class="bi bi-award"></i> 2016 American Real Estate Society Manuscript Prize, Best Office Buildings/Office Parks paper]{.tag .tag-award}
+:::
+
+::: {.pub}
+[Real Estate Market Cycle Lengths and Magnitudes]{.pub-title}
+
+[Mueller, G. R., & Mueller, A. G.]{.pub-authors}
+
+[*Real Estate Review* 45(3)]{.pub-venue}
+:::
+
+::: {.pub}
+[Industrial Real Estate Cycles: Markov Chain Applications]{.pub-title}
+
+[Evans, R. D., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Real Estate Portfolio Management* 22(1), 75–90]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2010
+:::
+
+::: {}
+
+::: {.pub}
+[Wind Farm Announcements and Rural Home Prices: Maxwell Ranch and Rural Northern Colorado]{.pub-title}
+
+[Laposa, S., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Sustainable Real Estate* 2(1), 383–402]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2008
+:::
+
+::: {}
+
+::: {.pub}
+[International Real Estate Volatility: A Tactical Investment Strategy]{.pub-title}
+
+[Mueller, G. R., Boney, V., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Real Estate Portfolio Management* 14(4), 415–423]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2007
+:::
+
+::: {}
+
+::: {.pub}
+[Warehouse Demand and the Path of Goods Movement]{.pub-title}
+
+[Mueller, G. R., & Mueller, A. G.]{.pub-authors}
+
+[*Journal of Real Estate Portfolio Management* 13(1), 45–55]{.pub-venue}
+:::
+
+:::
+:::
+
+::: {.pub-year}
+::: {.yr}
+2003
+:::
+
+::: {}
+
+::: {.pub}
+[Public and Private Real Estate in a Mixed-Asset Portfolio]{.pub-title}
+
+[Mueller, A. G., & Mueller, G. R.]{.pub-authors}
+
+[*Journal of Real Estate Portfolio Management* 9(3), 193–203]{.pub-venue}
+:::
+
+:::
+:::

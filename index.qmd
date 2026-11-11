@@ -1,25 +1,49 @@
 ---
-title: "Andrew G. Mueller"
 pagetitle: "Andrew G. Mueller"
-about:
-  template: trestles
-  image: assets/headshot.jpg
-  image-shape: round
-  image-width: 14em
-  links:
-    - icon: envelope
-      text: Contact
-      href: contact.qmd
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: "https://scholar.google.com/citations?user=fwxVfEAAAAAJ&hl=en"
-    - icon: linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/andrew-mueller-2101"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/EconGeo"
+description: "Andrew G. Mueller — Associate Professor at the University of Denver; research in real estate finance, sustainability, and urban economics."
+page-layout: full
+toc: false
+body-classes: home
 ---
+
+```{=html}
+<section class="hero column-screen" style="background-image: url('assets/img/hero-denver.jpg');">
+  <div class="hero-inner">
+    <img class="hero-photo" src="assets/headshot.jpg" alt="Portrait of Andrew G. Mueller">
+    <div>
+      <div class="eyebrow">University of Denver &middot; Burns School of Real Estate</div>
+      <h1>Andrew G. Mueller</h1>
+      <p class="hero-role">Associate Professor of Real Estate &amp; Construction Management</p>
+      <p class="hero-tagline">Applied microeconomics for real estate finance, sustainability, and
+        the cities we build &mdash; with an eye toward regenerative development.</p>
+      <div class="hero-actions">
+        <a class="btn btn-accent" href="research.qmd">Explore my research</a>
+        <a class="btn btn-ghost" href="cv.qmd">View CV</a>
+        <span class="hero-social">
+          <a href="contact.qmd" aria-label="Contact"><i class="bi bi-envelope"></i></a>
+          <a href="https://scholar.google.com/citations?user=fwxVfEAAAAAJ&amp;hl=en" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+          <a href="https://www.linkedin.com/in/andrew-mueller-2101" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+          <a href="https://github.com/EconGeo" aria-label="GitHub"><i class="bi bi-github"></i></a>
+        </span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="home-wrap">
+  <div class="stats">
+    <div class="stat"><div class="stat-num">15</div><div class="stat-label">Refereed journal articles</div></div>
+    <div class="stat"><div class="stat-num">20+</div><div class="stat-label">Years of industry experience</div></div>
+    <div class="stat"><div class="stat-num">2</div><div class="stat-label">ARES Manuscript Prizes</div></div>
+    <div class="stat"><div class="stat-num">4</div><div class="stat-label">Working papers in progress</div></div>
+  </div>
+</div>
+```
+
+::: {.home-wrap .home-section}
+::: {.about-grid}
+::: {}
+## About
 
 I am an **Associate Professor** in the Franklin L. Burns School of Real Estate
 and Construction Management, part of the Daniels College of Business at the
@@ -37,21 +61,96 @@ I am also a **regenerative practitioner**: I bring regenerative development
 principles to community-engaged projects in the Denver region, from the DU Grand
 Challenges sustainability cohort to the Community Integrated Research Center. You
 can read more about that work on the [Engagement](engagement.qmd) page.
+:::
 
-## Research interests
+::: {.interest-box}
+### Research interests
 
 - Real estate finance, investment, and market cycles
 - Sustainability and regenerative development in the built environment
 - Affordable housing and housing-market dynamics
 - Urban, regional, and environmental economics
 - Spatial econometrics and applied microeconomics
+:::
+:::
+:::
+
+```{=html}
+<div class="section-alt column-screen">
+  <div class="home-wrap">
+    <div class="eyebrow">What I study</div>
+    <h2 class="no-anchor">Research themes</h2>
+    <div class="theme-grid">
+      <a class="theme-card" href="publications.qmd">
+        <div class="theme-img-wrap"><div class="theme-img" style="background-image: url('assets/img/theme-finance.jpg');"></div></div>
+        <div class="theme-body">
+          <h3><i class="bi bi-graph-up-arrow"></i>Finance &amp; market cycles</h3>
+          <p>Portfolio allocation, real estate cycles, and cross-border capital flows.</p>
+        </div>
+      </a>
+      <a class="theme-card" href="research.qmd#paper-regenerative">
+        <div class="theme-img-wrap"><div class="theme-img" style="background-image: url('assets/img/theme-sustainability.jpg');"></div></div>
+        <div class="theme-body">
+          <h3><i class="bi bi-tree"></i>Regenerative development</h3>
+          <p>Sustainability, ESG performance, and measuring outcomes in the built environment.</p>
+        </div>
+      </a>
+      <a class="theme-card" href="research.qmd#paper-affordability">
+        <div class="theme-img-wrap"><div class="theme-img" style="background-image: url('assets/img/theme-housing.jpg');"></div></div>
+        <div class="theme-body">
+          <h3><i class="bi bi-house-heart"></i>Housing affordability</h3>
+          <p>Filtering, aging multifamily stock, and the lowest-income renters.</p>
+        </div>
+      </a>
+      <a class="theme-card" href="publications.qmd">
+        <div class="theme-img-wrap"><div class="theme-img" style="background-image: url('assets/img/theme-transit.jpg');"></div></div>
+        <div class="theme-body">
+          <h3><i class="bi bi-signpost-split"></i>Urban form &amp; travel</h3>
+          <p>Zoning, the built environment, and how people choose to get around.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+```
+
+::: {.home-wrap .home-section}
+::: {.eyebrow}
+Recent highlights
+:::
 
 ## News
 
-- **2024** — Published *Investable Real Estate Allocations in a Mixed-Asset
-  Portfolio* (*Journal of Real Estate Portfolio Management*); chaired the
-  inaugural American Real Estate Society (ARES) Fall Research Symposium.
-- **2023** — Published *Spatial Models of Travel Behavior and Land Use
-  Restriction* (*Journal of Sustainable Real Estate*).
-- **2022** — Promoted to Associate Professor; awarded the ARES Manuscript Prize
-  for Best Real Estate Cycles paper.
+::: {.timeline}
+::: {.tl-item}
+[2024]{.tl-year}
+
+Published *Investable Real Estate Allocations in a Mixed-Asset Portfolio*
+(*Journal of Real Estate Portfolio Management*); chaired the inaugural American
+Real Estate Society (ARES) Fall Research Symposium.
+:::
+
+::: {.tl-item}
+[2023]{.tl-year}
+
+Published *Spatial Models of Travel Behavior and Land Use Restriction*
+(*Journal of Sustainable Real Estate*).
+:::
+
+::: {.tl-item}
+[2022]{.tl-year}
+
+Promoted to Associate Professor; awarded the ARES Manuscript Prize for Best Real
+Estate Cycles paper.
+:::
+:::
+:::
+
+```{=html}
+<section class="cta column-screen" style="background-image: url('assets/img/banner-park.jpg');">
+  <h2 class="no-anchor">Let&rsquo;s work together</h2>
+  <p>I welcome conversations with students, community partners, and fellow researchers
+     about real estate, sustainability, and the future of Denver&rsquo;s built environment.</p>
+  <a class="btn btn-accent" href="contact.qmd">Get in touch</a>
+</section>
+```

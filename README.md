@@ -22,7 +22,9 @@ quarto render       # outputs to _site/
 | `teaching.qmd` | Courses, student projects, resources |
 | `cv.qmd` | Embedded scrolling CV + download button |
 | `contact.qmd` | Email and social links |
-| `styles.scss` | Brand palette — change 5 variables at the top to re-skin |
+| `photo-credits.qmd` | Licenses and authors for the site photos (keep in sync with `assets/img/`) |
+| `assets/img/` | Banner and card photos (Wikimedia Commons; see Photo credits) |
+| `styles.scss` | Brand palette (ink blue + amber accent) and all page layouts: hero, cards, timelines |
 | `assets/headshot.svg` | Placeholder headshot — replace with your photo |
 | `cv/mueller-cv.pdf` | Placeholder CV — replace with your real CV |
 | `papers/working-paper.pdf` | Placeholder paper — replace with real drafts |

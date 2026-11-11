@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+title-block-banner: assets/img/banner-skyline.jpg
 ---
 
 [Download CV (PDF)](cv/mueller-cv.pdf){.btn .btn-primary}

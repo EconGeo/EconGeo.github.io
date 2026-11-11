@@ -1,5 +1,7 @@
 ---
 title: "Engagement"
+subtitle: "Regenerative practice and community-engaged scholarship in the Denver region."
+title-block-banner: assets/img/banner-frontrange.jpg
 ---
 
 As a **regenerative practitioner**, I work to apply regenerative development
@@ -7,23 +9,50 @@ principles — restoring environmental and social systems rather than simply
 reducing harm — through community-engaged scholarship in and around Denver.
 Below are several initiatives I have helped lead.
 
-## Environmental Sustainability in an Urban Context — DU Grand Challenges {#sec-grand-challenges}
+::: {.feature}
+::: {.feature-img style="background-image: url('assets/img/banner-garden.jpg');"}
+:::
+::: {}
+[DU Grand Challenges · 2018–2021]{.tag}
+
+## Environmental Sustainability in an Urban Context {#sec-grand-challenges}
 
 I co-led the **Environmental Sustainability in an Urban Context** cohort of the
 DU Grand Challenges (2018–2021). Each Grand Challenges cohort spends its first
 year in a collective-impact process to determine the group's goals; the
 Sustainability Cohort set an overarching objective to deepen the DU community's
-involvement with community partners, organized around four pilot projects:
+involvement with community partners, organized around four pilot projects.
+:::
+:::
 
-- **Beyond GDP** — developing a website that tracks, in real time, the indicators
-  included in a **Human and Ecological Wellbeing (HEW) Index**. The goal is to
-  engage community partners directly — each partner can submit indicators of
-  interest and take part in deciding how they should be included — building
-  relationships through which DU faculty and students can engage with the
-  community.
-- **Photovoice**
-- **Denver Public Schools Green Teams**
-- **Environmental Justice Law Clinic**
+::: {.pilot-grid}
+::: {}
+**<i class="bi bi-speedometer2"></i> Beyond GDP**
+Developing a website that tracks, in real time, the indicators included in a
+**Human and Ecological Wellbeing (HEW) Index**. The goal is to engage community
+partners directly — each partner can submit indicators of interest and take part
+in deciding how they should be included — building relationships through which
+DU faculty and students can engage with the community.
+:::
+
+::: {}
+**<i class="bi bi-camera"></i> Photovoice**
+:::
+
+::: {}
+**<i class="bi bi-backpack"></i> Denver Public Schools Green Teams**
+:::
+
+::: {}
+**<i class="bi bi-bank"></i> Environmental Justice Law Clinic**
+:::
+:::
+
+::: {.feature .flip}
+::: {.feature-img style="background-image: url('assets/img/theme-urban.jpg');"}
+:::
+::: {}
+[CityCraft · West Denver]{.tag}
 
 ## Community Integrated Research Center (CIRC) {#sec-circ}
 
@@ -34,6 +63,8 @@ redevelop West Denver in a regenerative way. The group includes members of the
 CityCraft team along with CU Denver's Urban Planning Department, DU's Real Estate
 and Construction Management Department, Colorado State University's Institute for
 the Built Environment, and Regis University's Business School.
+:::
+:::
 
 ## Community-engaged scholarship {#sec-community}
 
@@ -41,6 +72,8 @@ The University of Denver is a private university committed to the public good. I
 work with community partners on collaborative research and engaged-learning
 projects, and I point students and collaborators toward:
 
-- [DU Center for Community Engagement to advance Scholarship and Learning (CCESL)](https://www.du.edu/ccesl/) — resources on community-engaged scholarship and learning.
-- [DU Scholar Shop](https://duscholarshop.com/) — community partners interested in working with DU faculty and students.
-- [Metro Denver Nature Alliance](https://www.metrodna.org/) — a coalition aligning nature-based efforts for more equitable access to nature.
+::: {.project-grid}
+[<i class="bi bi-people"></i> DU Center for Community Engagement to advance Scholarship and Learning (CCESL)](https://www.du.edu/ccesl/){.project-link}
+[<i class="bi bi-shop"></i> DU Scholar Shop — community partners seeking DU faculty and students](https://duscholarshop.com/){.project-link}
+[<i class="bi bi-tree"></i> Metro Denver Nature Alliance — equitable access to nature](https://www.metrodna.org/){.project-link}
+:::
